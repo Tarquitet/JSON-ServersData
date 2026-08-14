@@ -7,22 +7,22 @@
   {
     "Titulo": "Adaptar datapacks al nuevo enfoque",
     "Estado": "En Progreso",
-    "Descripcion": "Revisar y modificar los sistemas actuales para que apoyen la construcci?n."
+    "Descripcion": "Revisar y modificar los sistemas actuales para que apoyen la construcción."
   },
   {
     "Titulo": "Limpiar roles inactivos en Discord",
     "Estado": "En Progreso",
-    "Descripcion": "Eliminar roles que ya no tienen uso o est?n obsoletos."
+    "Descripcion": "Eliminar roles que ya no tienen uso o están obsoletos."
   },
   {
-    "Titulo": "Definir ?rbol jer?rquico de roles",
+    "Titulo": "Definir árbol jerárquico de roles",
     "Estado": "En Progreso",
     "Descripcion": "Establecer los niveles de autoridad (Owner, Admin, Mod)."
   },
   {
-    "Titulo": "Asignar jerarqu?as y colores en Discord",
+    "Titulo": "Asignar jerarquías y colores en Discord",
     "Estado": "En Progreso",
-    "Descripcion": "Aplicar visualmente el ?rbol jer?rquico en la configuraci?n del servidor."
+    "Descripcion": "Aplicar visualmente el árbol jerárquico en la configuración del servidor."
   },
   {
     "Titulo": "Documentar protocolo de encendido de pruebas",
@@ -32,7 +32,7 @@
   {
     "Titulo": "Crear rol Tester y canal de feedback",
     "Estado": "Planeado",
-    "Descripcion": "Configurar el rol en Discord para quienes probar?n sistemas."
+    "Descripcion": "Configurar el rol en Discord para quienes probarán sistemas."
   },
   {
     "Titulo": "Reclutar voluntarios para pruebas",
@@ -45,19 +45,19 @@
     "Descripcion": "Configurar la base de datos interna del juego para los rangos."
   },
   {
-    "Titulo": "Programar funciones de asignaci?n en datapack",
+    "Titulo": "Programar funciones de asignación en datapack",
     "Estado": "Concepto",
     "Descripcion": "Hacer que el sistema asigne a los jugadores a sus respectivos teams."
   },
   {
-    "Titulo": "Dise?ar formato visual de rangos en chat",
+    "Titulo": "Diseñar formato visual de rangos en chat",
     "Estado": "Concepto",
-    "Descripcion": "Decidir c?mo se ver?n los prefijos y sufijos en el chat del juego."
+    "Descripcion": "Decidir cómo se verán los prefijos y sufijos en el chat del juego."
   },
   {
     "Titulo": "Texturepack para los roles en mc",
     "Estado": "En Progreso",
-    "Descripcion": "?C?mo se ve y se usar?a un texturepack con roles si no son un item o bloque existente en el juego?"
+    "Descripcion": "¿Cómo se ve y se usaría un texturepack con roles si no son un item o bloque existente en el juego?"
   },
   {
     "Titulo": "Como crear y comprender un texturepack para mc",
@@ -67,7 +67,7 @@
   {
     "Titulo": "Vincular roles con el formato de chat in-game",
     "Estado": "Concepto",
-    "Descripcion": "Aplicar el dise?o visual a los mensajes que env?an los jugadores."
+    "Descripcion": "Aplicar el diseño visual a los mensajes que envían los jugadores."
   },
   {
     "Titulo": "Programar comandos trigger para nicks custom",
@@ -77,7 +77,7 @@
   {
     "Titulo": "Configurar permisos de uso de colores",
     "Estado": "Concepto",
-    "Descripcion": "Definir qu? rangos pueden usar qu? colores en su nick del tabulador."
+    "Descripcion": "Definir qué rangos pueden usar qué colores en su nick del tabulador."
   },
   {
     "Titulo": "Configurar scoreboard de vida",
@@ -92,7 +92,7 @@
   {
     "Titulo": "Definir item base vanilla para la moneda",
     "Estado": "En Progreso",
-    "Descripcion": "Seleccionar qu? item del juego servir? como base para la econom?a."
+    "Descripcion": "Seleccionar qué item del juego servirá como base para la economía."
   },
   {
     "Titulo": "Establecer tabla de valores de intercambio",
@@ -100,9 +100,9 @@
     "Descripcion": "Definir el valor de la moneda frente a items decorativos y ventajas."
   },
   {
-    "Titulo": "Dise?ar texturas para monedas BTC",
+    "Titulo": "Diseñar texturas para monedas BTC",
     "Estado": "Planeado",
-    "Descripcion": "Crear el pixel art que representar? visualmente la moneda."
+    "Descripcion": "Crear el pixel art que representará visualmente la moneda."
   },
   {
     "Titulo": "Asignar CustomModelData a las monedas",
@@ -112,42 +112,42 @@
   {
     "Titulo": "Recopilar ideas de jugadores para tradeos",
     "Estado": "Concepto",
-    "Descripcion": "Hacer una encuesta o hilo en Discord para definir qu? quieren comprar."
+    "Descripcion": "Hacer una encuesta o hilo en Discord para definir qué quieren comprar."
   },
   {
     "Titulo": "Programar comandos summon para aldeanos",
     "Estado": "Concepto",
-    "Descripcion": "Crear los NPCs de econom?a mediante NBT data editada en el Datapack."
+    "Descripcion": "Crear los NPCs de economía mediante NBT data editada en el Datapack."
   },
   {
     "Titulo": "Ubicar aldeanos de tradeos en el mundo",
     "Estado": "Concepto",
-    "Descripcion": "Posicionar f?sicamente a los NPCs en la zona comercial del servidor."
+    "Descripcion": "Posicionar físicamente a los NPCs en la zona comercial del servidor."
   },
   {
-    "Titulo": "Dise?ar receta para crafteo de hamburguesa",
+    "Titulo": "Diseñar receta para crafteo de hamburguesa",
     "Estado": "Planeado",
     "Descripcion": "Definir los ingredientes vanilla necesarios para la nueva receta."
   },
   {
     "Titulo": "Programar archivo JSON para la hamburguesa",
     "Estado": "Planeado",
-    "Descripcion": "Crear la l?gica del crafteo dentro de la carpeta recipes del Datapack."
+    "Descripcion": "Crear la lógica del crafteo dentro de la carpeta recipes del Datapack."
   },
   {
-    "Titulo": "Dise?ar iconos visuales para rangos BTC",
+    "Titulo": "Diseñar iconos visuales para rangos BTC",
     "Estado": "En Progreso",
-    "Descripcion": "Crear los gr?ficos peque?os que representar?n cada rol en la interfaz."
+    "Descripcion": "Crear los gráficos pequeños que representarán cada rol en la interfaz."
   },
   {
     "Titulo": "Mapear iconos de rangos en la fuente del RP",
     "Estado": "En Progreso",
-    "Descripcion": "Integrar las im?genes dentro de la carpeta font/characters del Resource Pack."
+    "Descripcion": "Integrar las imágenes dentro de la carpeta font/characters del Resource Pack."
   },
   {
     "Titulo": "Recopilar imagenes para nuevos cuadros",
     "Estado": "En Progreso",
-    "Descripcion": "Seleccionar el arte complejo que reemplazar? o a?adir? pinturas al juego."
+    "Descripcion": "Seleccionar el arte complejo que reemplazará o añadirá pinturas al juego."
   },
   {
     "Titulo": "Integrar texturas de cuadros en Resource Pack",
@@ -157,7 +157,7 @@
   {
     "Titulo": "Modelar sillas, mesas y faroles en 3D",
     "Estado": "Concepto",
-    "Descripcion": "Crear la geometr?a de los bloques decorativos vanilla friendly."
+    "Descripcion": "Crear la geometría de los bloques decorativos vanilla friendly."
   },
   {
     "Titulo": "Programar interacciones de bloques decorativos",
@@ -180,17 +180,17 @@
     "Descripcion": "Crear un sistema en el Datapack para que al usar un item, se ejecute /playsound."
   },
   {
-    "Titulo": "Dise?ar texturas custom para cascos y calabazas",
+    "Titulo": "Diseñar texturas custom para cascos y calabazas",
     "Estado": "Concepto",
-    "Descripcion": "Crear los aspectos visuales que los jugadores podr?n equiparse en la cabeza."
+    "Descripcion": "Crear los aspectos visuales que los jugadores podrán equiparse en la cabeza."
   },
   {
-    "Titulo": "Dise?ar texturas custom para armaduras",
+    "Titulo": "Diseñar texturas custom para armaduras",
     "Estado": "Concepto",
     "Descripcion": "Crear sets visuales alternativos para las armaduras vanilla."
   },
   {
-    "Titulo": "Dise?ar texturas custom para elytras",
+    "Titulo": "Diseñar texturas custom para elytras",
     "Estado": "Concepto",
     "Descripcion": "Crear variantes visuales para las alas, separadas de las capas."
   },
@@ -202,22 +202,22 @@
   {
     "Titulo": "Modelar en 3D peluche de zoneja",
     "Estado": "Planeado",
-    "Descripcion": "Dise?ar y texturizar el modelo decorativo en Blockbench."
+    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Modelar en 3D peluche de fnaf",
     "Estado": "Planeado",
-    "Descripcion": "Dise?ar y texturizar el modelo decorativo en Blockbench."
+    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Modelar en 3D peluche de tarqui",
     "Estado": "Planeado",
-    "Descripcion": "Dise?ar y texturizar el modelo decorativo en Blockbench."
+    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Modelar en 3D peluche pony aguila",
     "Estado": "Planeado",
-    "Descripcion": "Dise?ar y texturizar el modelo decorativo en Blockbench."
+    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Vincular modelos de peluches con CMD",
@@ -227,17 +227,17 @@
   {
     "Titulo": "Agregar los peluches como trofeos como intercambio con aldeanos custom",
     "Estado": "Planeado",
-    "Descripcion": "Una secci?n de la econom?a del servidor ser?n los peluches. Por el momento, los miembros del staff actuales para definir su uso."
+    "Descripcion": "Una sección de la economía del servidor serán los peluches. Por el momento, los miembros del staff actuales para definir su uso."
   },
   {
     "Titulo": "Programar entidades para colocar peluches",
     "Estado": "Concepto",
-    "Descripcion": "Crear comandos para generar item frames invisibles donde se exhibir?n los peluches."
+    "Descripcion": "Crear comandos para generar item frames invisibles donde se exhibirán los peluches."
   },
   {
     "Titulo": "Redactar guion sobre uso de cabezas custom",
     "Estado": "En Progreso",
-    "Descripcion": "Escribir el paso a paso de c?mo obtener y colocar cabezas."
+    "Descripcion": "Escribir el paso a paso de cómo obtener y colocar cabezas."
   },
   {
     "Titulo": "Grabar y editar video tutorial cabezas custom",
@@ -270,7 +270,7 @@
     "Descripcion": "Vincular el costo de las cartas con la moneda principal del servidor."
   },
   {
-    "Titulo": "Dise?ar arte de cartas Pokemon",
+    "Titulo": "Diseñar arte de cartas Pokemon",
     "Estado": "Planeado",
     "Descripcion": "Crear los graficos pixel art o ilustraciones para cada carta."
   },
@@ -280,14 +280,14 @@
     "Descripcion": "Programar el Resource Pack para que lea el arte de las cartas sobre un item base."
   },
   {
-    "Titulo": "Dise?ar sprites de caras pixeladas Pokemon",
+    "Titulo": "Diseñar sprites de caras pixeladas Pokemon",
     "Estado": "Planeado",
     "Descripcion": "Crear arte decorativo en baja resolucion para ambientar el estadio."
   },
   {
     "Titulo": "Integrar caras pixeladas en Resource Pack",
     "Estado": "Planeado",
-    "Descripcion": "Mapear los sprites dise?ados dentro de los archivos visuales del servidor."
+    "Descripcion": "Mapear los sprites diseñados dentro de los archivos visuales del servidor."
   },
   {
     "Titulo": "Construir maparts tematicos de Pokemon",
@@ -312,7 +312,7 @@
   {
     "Titulo": "Crear textura para calabaza de broma",
     "Estado": "Concepto",
-    "Descripcion": "Dise?ar un modelo o textura graciosa para usarla en el juego."
+    "Descripcion": "Diseñar un modelo o textura graciosa para usarla en el juego."
   },
   {
     "Titulo": "Asignar textura de calabaza temporalmente en RP",
@@ -330,19 +330,19 @@
     "Descripcion": "Crear comandos temporales o scripts que ejecuten las mecanicas de broma."
   },
   {
-    "Titulo": "Redise?ar web btc tipo videojuego",
+    "Titulo": "Rediseñar web btc tipo videojuego",
     "Estado": "En Progreso",
-    "Descripcion": "Hacer un redise?o a la web + cambio de logo y banner"
+    "Descripcion": "Hacer un rediseño a la web + cambio de logo y banner"
   },
   {
-    "Titulo": "Dise?o banner btc",
+    "Titulo": "Diseño banner btc",
     "Estado": "En Progreso",
-    "Descripcion": "Dise?o banner tipo minecraft update"
+    "Descripcion": "Diseño banner tipo minecraft update"
   },
   {
-    "Titulo": "Dise?o logo btc",
+    "Titulo": "Diseño logo btc",
     "Estado": "En Progreso",
-    "Descripcion": "Nuevo logo tipo oro bloque 3d bise?ado e incrustado con las letras BTC"
+    "Descripcion": "Nuevo logo tipo oro bloque 3d biseñado e incrustado con las letras BTC"
   },
   {
     "Titulo": "Mapart 1er logo btc",
