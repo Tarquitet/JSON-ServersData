@@ -1,0 +1,112 @@
+[
+  {
+    "Nombre": "Aguila003",
+    "Rol": "ADMIN",
+    "Avatar": "https://drive.google.com/thumbnail?id=1e7Pfar_e962pb01XRHoVw5VPUsmA_s-c&sz=w800",
+    "Bio": "Encargado de la gesti?n de la comunidad. Siempre dispuesto a ayudar a mantener la paz y dar buenas ideas.",
+    "Color": "#ef4444",
+    "Twitch": "https://www.twitch.tv/menuevt",
+    "Youtube": "https://www.youtube.com/@MENUEVT",
+    "Github": ""
+  },
+  {
+    "Nombre": "AkikoWolf",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=1UWkKQBRjnpGFUzdevmDlBfGxZqez8JHo&sz=w800",
+    "Bio": "Encargada de la log?stica y administraci?n de proyectos",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "aliang",
+    "Rol": "BETATESTER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1AMV9bZfHDCE6du-RBgTRz0bWDoYHkLRw&sz=w800",
+    "Bio": "Fue la primer usuaria en acceder el mundo de pruebas de Builtechraft (antes de KittyCupcake)",
+    "Color": "#0F079C",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "Dip_UwU",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=17QvXTGIEECvg-3NToRkSKppB4vYuE_z4&sz=w800",
+    "Bio": "Acompa?ante del jugador retirado JoseJose, aport? con algunas granjas que hoy en d?a est?n rotas.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "kittycupcake",
+    "Rol": "VIGILANTE",
+    "Avatar": "https://drive.google.com/thumbnail?id=1TK51YHQIsbGsJ71vdoMlDjgVn-4MrwuT&sz=w800",
+    "Bio": "Vigilante veterana de la comunidad. Ayud? con las primeras pruebas del mundo survival cunado el servidor utilizaba plugins.",
+    "Color": "#3b82f6",
+    "Twitch": "https://www.twitch.tv/x_kittycupcake_x",
+    "Youtube": "https://www.youtube.com/channel/UCVEf2GUc_0LkQzXB1fwE4QQ",
+    "Github": ""
+  },
+  {
+    "Nombre": "snow",
+    "Rol": "VIGILANTE",
+    "Avatar": "https://drive.google.com/thumbnail?id=1ETZlUc5KGHEkIc2MwFdkxx7GZ4DG1ESL&sz=w800",
+    "Bio": "Encargada de la log?stica y administraci?n de proyectos",
+    "Color": "#3b82f6",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "snowing",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=17bFavpjIS8DAglmWa8A6ZL0Rw1_otoX7&sz=w800",
+    "Bio": "Antiguo staff del servidor, aport? en la gesti?n comunitaria hace unos a?os.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "soshy",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=13KdAyTlnS0oBYRMOK7f-gakhh4vh6bfV&sz=w800",
+    "Bio": "Experta en armamentos y tanques de guerra. Le interesa el Create Mod y ayudaba a levantar los ?nimos de Tarquitet.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "https://www.youtube.com/@soshyyt2040",
+    "Github": ""
+  },
+  {
+    "Nombre": "SweetHeart",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=1LeqnApUeYKbEr-3fqv9oB-K1Z51SDLAh&sz=w800",
+    "Bio": "Jugador qui?n di? los primeros conceptos sobre Minecraft T?cnico en Builtehcraft. Aport? con su base para ayudar a otros jugadores.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "tarquitet",
+    "Rol": "LIDER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
+    "Bio": "Fundador y arquitecto principal del servidor. Amante del detalle t?cnico y la optimizaci?n extrema.",
+    "Color": "#f97316",
+    "Twitch": "https://www.twitch.tv/tarquitet",
+    "Youtube": "https://youtube.com/@Tarquitet",
+    "Github": ""
+  },
+  {
+    "Nombre": "UnPocoDeRuch",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=1oJZfg_2F_TUlxgRv7J5mj9yc97Y9kBDN&sz=w800",
+    "Bio": "Antiguo staff del servidor. Compa?ero de Sweet.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  }
+]
