@@ -1,0 +1,149 @@
+[
+  {
+    "Name": "Alternative Authentication",
+    "Desc": "Use third-party authentication servers, like Ely.by, on your server without interfering with Mojang authentication",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/iF6szt3y/bbdbd892ed1d6b20a66285b8a62f554ce73814bf_96.webp",
+    "Url": "https://modrinth.com/project/alternative-authentication"
+  },
+  {
+    "Name": "BlueMap",
+    "Desc": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/swbUV1cr/b9a17ab8c850046101a47e62037225c9b007a2ca_96.webp",
+    "Url": "https://modrinth.com/project/bluemap"
+  },
+  {
+    "Name": "BlueMap Banners",
+    "Desc": "Adds banners to BlueMap when players place banners in game.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/rx2aSILw/0d85f96287fbcbe49d5d012f6554dc4c17d3f757.png",
+    "Url": "https://modrinth.com/project/bluemap-banners"
+  },
+  {
+    "Name": "Carpet",
+    "Desc": "Take full control over your vanilla game",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp",
+    "Url": "https://modrinth.com/project/carpet"
+  },
+  {
+    "Name": "Carpet Discarpet",
+    "Desc": "Fabric carpet extension that adds discord functionality to scarpet",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/m00L1GVJ/4c06e5f4568029c0eb8220b26a8eb30089bb74bc_96.webp",
+    "Url": "https://modrinth.com/project/discarpet"
+  },
+  {
+    "Name": "Custom Trades",
+    "Desc": "Permite crear tradeos personalizados a aldeanos que no tengan profesi?n. Datapack de Vanilla Tweaks.",
+    "Type": "Datapack",
+    "Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvanillatweaks.net%2Fassets%2Fimages%2Flogo.png&f=1&nofb=1&ipt=67383ac3b4b93ba47fede63f0d06142c52ae079196ede234cc49e350f1a9d616",
+    "Url": "https://vanillatweaks.net/picker/datapacks/"
+  },
+  {
+    "Name": "Durability Ping",
+    "Desc": "Muestra un titulo grande en tu pantalla cuando tu herramienta o armadura le queda un 10% de durabilidad. Datapack de Vanilla Tweaks.",
+    "Type": "Datapack",
+    "Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvanillatweaks.net%2Fassets%2Fimages%2Flogo.png&f=1&nofb=1&ipt=67383ac3b4b93ba47fede63f0d06142c52ae079196ede234cc49e350f1a9d616",
+    "Url": "https://vanillatweaks.net/picker/datapacks/"
+  },
+  {
+    "Name": "Fabric API",
+    "Desc": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+    "Url": "https://modrinth.com/project/fabric-api"
+  },
+  {
+    "Name": "FerriteCore",
+    "Desc": "Memory usage optimizations",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+    "Url": "https://modrinth.com/project/ferrite-core"
+  },
+  {
+    "Name": "Footprint",
+    "Desc": "Server-side mod to keep world size down by not saving all chunks",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/1dy7kepT/370479d1f7eebbe27760981918e9fe9695a41bf6_96.webp",
+    "Url": "https://modrinth.com/project/footprint"
+  },
+  {
+    "Name": "FSit Continued",
+    "Desc": "Continuation of FSit. Sit, crawl, and ride other players on modern Minecraft versions.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/dF99Qv0b/2ea9cff59760b407bef8fde71f97e46820feb2b8_96.webp",
+    "Url": "https://modrinth.com/project/fsit-continued"
+  },
+  {
+    "Name": "Graves",
+    "Desc": "A fully customizable grave to save your loot upon death!",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/kieAM9Us/7236413aa99d28e8ead181c8d1bdd5448c74db22_96.webp",
+    "Url": "https://modrinth.com/project/ly-graves"
+  },
+  {
+    "Name": "Lithium",
+    "Desc": "No-compromises game logic optimization mod, useful for both single-player games and multi-player servers.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+    "Url": "https://modrinth.com/project/lithium"
+  },
+  {
+    "Name": "LodestoneTP",
+    "Desc": "A simple quality-of-life data pack that lets you teleport to tracked lodestones and last death locations!",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/oyqdOJrB/5c6ad4c39a74b65b779f46dc91286d6ca70da80a_96.webp",
+    "Url": "https://modrinth.com/project/lodestonetp"
+  },
+  {
+    "Name": "Mobs Drop Heads",
+    "Desc": "Tienes una probabilidad de obtener su cabeza al matar un mob para utilizarla como bloque decorativo o para reproducir su sonido coloc?ndolo sobre un bloque musical. Datapack de Vanilla Tweaks.",
+    "Type": "Datapack",
+    "Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvanillatweaks.net%2Fassets%2Fimages%2Flogo.png&f=1&nofb=1&ipt=67383ac3b4b93ba47fede63f0d06142c52ae079196ede234cc49e350f1a9d616",
+    "Url": "https://vanillatweaks.net/picker/datapacks/"
+  },
+  {
+    "Name": "No Chat Reports",
+    "Desc": "Makes chat unreportable (where possible)",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/qQyHxfxd/icon.png",
+    "Url": "https://modrinth.com/project/no-chat-reports"
+  },
+  {
+    "Name": "Re vault",
+    "Desc": "Allows vaults to be reopened after a configurable cooldown.",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/E8egdGje/9754cb5f4090f83e0388aa6b9f36e6cdcae3b4f5_96.webp",
+    "Url": "https://modrinth.com/project/revault"
+  },
+  {
+    "Name": "Servux",
+    "Desc": "Servux is a server-side mod that provides support for some client-side mods, such as sending structure bounding boxes for MiniHUD",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
+    "Url": "https://modrinth.com/project/servux"
+  },
+  {
+    "Name": "Skull [Portable]",
+    "Desc": "Obtain and Customize Player Heads in Survival!",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/x5rDcrvh/68af4607afd63a7caac80e4411935e9bd7bc5321_96.webp",
+    "Url": "https://modrinth.com/project/skull-portable"
+  },
+  {
+    "Name": "Teleport Book",
+    "Desc": "A new item to teleport to players! like a Vanilla-Friendly TPA!",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/2ywsOIUh/e005b2a7c234d2dd410e662a3a400017a2130f14.png",
+    "Url": "https://modrinth.com/project/teleport-book"
+  },
+  {
+    "Name": "WorldEdit",
+    "Desc": "A Minecraft Map Editor... that runs in-game!\nWith selections, schematics, copy and paste, brushes, and scripting.\nUse it in creative, or use it temporarily in survival.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
+    "Url": "https://modrinth.com/project/worldedit"
+  }
+]
