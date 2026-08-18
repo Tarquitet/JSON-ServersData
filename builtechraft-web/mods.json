@@ -7,6 +7,13 @@
     "Url": "https://modrinth.com/project/alternative-authentication"
   },
   {
+    "Name": "Armor Statues Datapack",
+    "Desc": "Adds a unique book that allows you to alter the properties of Armor Stands in survival",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/Cfqq3Wh1/f6d6ae9ca9206f422920b1eb6eadff395791892f_96.webp",
+    "Url": "https://modrinth.com/project/armor-statues-datapack"
+  },
+  {
     "Name": "BlueMap",
     "Desc": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.",
     "Type": "Mod",
@@ -19,6 +26,13 @@
     "Type": "Mod",
     "Icon": "https://cdn.modrinth.com/data/rx2aSILw/0d85f96287fbcbe49d5d012f6554dc4c17d3f757.png",
     "Url": "https://modrinth.com/project/bluemap-banners"
+  },
+  {
+    "Name": "Bookshelf Inspector",
+    "Desc": "Easily tell which books are in your Chiseled Bookshelf by just looking at it! 🕵🏻",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/hI6pAf86/9f58c96af0225ac873df0dcc853b40c6aa7e7d2b_96.webp",
+    "Url": "https://modrinth.com/project/gm4-bookshelf-inspector"
   },
   {
     "Name": "Carpet",
@@ -70,11 +84,11 @@
     "Url": "https://modrinth.com/project/footprint"
   },
   {
-    "Name": "FSit Continued",
-    "Desc": "Continuation of FSit. Sit, crawl, and ride other players on modern Minecraft versions.",
-    "Type": "Mod",
-    "Icon": "https://cdn.modrinth.com/data/dF99Qv0b/2ea9cff59760b407bef8fde71f97e46820feb2b8_96.webp",
-    "Url": "https://modrinth.com/project/fsit-continued"
+    "Name": "Ghast Pedal! - Continued",
+    "Desc": "Adds the ability to sprint while riding on a Happy Ghast, giving it a modest boost. Ported by Wjph2k10.",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/HfZcdZSA/3553082895873c51d67144a2a894cf146dee2e07_96.webp",
+    "Url": "https://modrinth.com/project/ghast-pedal-continued"
   },
   {
     "Name": "Graves",
@@ -82,6 +96,20 @@
     "Type": "Datapack",
     "Icon": "https://cdn.modrinth.com/data/kieAM9Us/7236413aa99d28e8ead181c8d1bdd5448c74db22_96.webp",
     "Url": "https://modrinth.com/project/ly-graves"
+  },
+  {
+    "Name": "Info Tools",
+    "Desc": "Modified Coordinates HUD to make your coordinates appear when  you have a compass in your inventory and the time of day appear when you have a clock in your inventory",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/vSoR3IrK/6b6df6c6b565b85ebf60a1e0323b8370f3a0db80_96.webp",
+    "Url": "https://modrinth.com/project/info-tools"
+  },
+  {
+    "Name": "Krypton",
+    "Desc": "A mod to optimize the Minecraft networking stack",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp",
+    "Url": "https://modrinth.com/project/krypton"
   },
   {
     "Name": "Lithium",
@@ -112,11 +140,25 @@
     "Url": "https://modrinth.com/project/no-chat-reports"
   },
   {
+    "Name": "Player Drop Heads",
+    "Desc": "Permite obtener cabezas del jugador asesinado. Datapack de Vanilla Tweaks.",
+    "Type": "Datapack",
+    "Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvanillatweaks.net%2Fassets%2Fimages%2Flogo.png&f=1&nofb=1&ipt=67383ac3b4b93ba47fede63f0d06142c52ae079196ede234cc49e350f1a9d616",
+    "Url": "https://vanillatweaks.net/picker/datapacks/"
+  },
+  {
     "Name": "Re vault",
     "Desc": "Allows vaults to be reopened after a configurable cooldown.",
     "Type": "Datapack",
     "Icon": "https://cdn.modrinth.com/data/E8egdGje/9754cb5f4090f83e0388aa6b9f36e6cdcae3b4f5_96.webp",
     "Url": "https://modrinth.com/project/revault"
+  },
+  {
+    "Name": "ScalableLux",
+    "Desc": "A Fabric mod based on Starlight that improves the performance of light updates in Minecraft.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp",
+    "Url": "https://modrinth.com/project/scalablelux"
   },
   {
     "Name": "Servux",
@@ -126,11 +168,39 @@
     "Url": "https://modrinth.com/project/servux"
   },
   {
+    "Name": "Silence Mobs",
+    "Desc": "Con el nombre silence_me en etiqueta, podrás silenciar a los mobs. Datapack de Vanilla Tweaks.",
+    "Type": "Datapack",
+    "Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvanillatweaks.net%2Fassets%2Fimages%2Flogo.png&f=1&nofb=1&ipt=67383ac3b4b93ba47fede63f0d06142c52ae079196ede234cc49e350f1a9d616",
+    "Url": "https://vanillatweaks.net/picker/datapacks/"
+  },
+  {
+    "Name": "Sit Anywhere!",
+    "Desc": "Sit anywhere you want! Look down, double tap sneak and right click and you sit. As easy as that. Or you can just sit on stair/slab or via \"/trigger sit\".\nWork on vanilla servers, or any other setup.",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/gNPj0UDg/ab231f706e79a48f87a08153ad45306a95e7d1d1.png",
+    "Url": "https://modrinth.com/project/sit-anywhere!"
+  },
+  {
     "Name": "Skull [Portable]",
     "Desc": "Obtain and Customize Player Heads in Survival!",
     "Type": "Datapack",
     "Icon": "https://cdn.modrinth.com/data/x5rDcrvh/68af4607afd63a7caac80e4411935e9bd7bc5321_96.webp",
     "Url": "https://modrinth.com/project/skull-portable"
+  },
+  {
+    "Name": "Speed Happy Ghast",
+    "Desc": "adds the speed effect to the happy ghast",
+    "Type": "Datapack",
+    "Icon": "https://cdn.modrinth.com/data/2cqWhewT/09c92d27450e184b99f3dfa1fac35141b268f383_96.webp",
+    "Url": "https://modrinth.com/project/speed-happy-ghast"
+  },
+  {
+    "Name": "Syncmatica",
+    "Desc": "Syncmatica is a mod which aims to mod into litematica so that schematics and their placements can be easily shared.",
+    "Type": "Mod",
+    "Icon": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
+    "Url": "https://modrinth.com/project/syncmatica"
   },
   {
     "Name": "Teleport Book",
