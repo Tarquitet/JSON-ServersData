@@ -71,10 +71,10 @@
   },
   {
     "Nombre": "soshy",
-    "Rol": "RETIRADO",
+    "Rol": "VIGILANTE",
     "Avatar": "https://drive.google.com/thumbnail?id=13KdAyTlnS0oBYRMOK7f-gakhh4vh6bfV&sz=w800",
     "Bio": "Experta en armamentos y tanques de guerra. Le interesa el Create Mod y ayudaba a levantar los ánimos de Tarquitet.",
-    "Color": "#71717a",
+    "Color": "#3b82f6",
     "Twitch": "",
     "Youtube": "https://www.youtube.com/@soshyyt2040",
     "Github": ""
@@ -91,7 +91,7 @@
   },
   {
     "Nombre": "tarquitet",
-    "Rol": "LIDER",
+    "Rol": "FUNDADOR",
     "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
     "Bio": "Fundador y arquitecto principal del servidor. Amante del detalle técnico y la optimización extrema.",
     "Color": "#f97316",
