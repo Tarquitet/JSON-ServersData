@@ -1,15 +1,5 @@
 [
   {
-    "Titulo": "Comunicar nuevo enfoque a la comunidad",
-    "Estado": "En Progreso",
-    "Descripcion": "Informar a los jugadores sobre el cambio de objetivo de BTC."
-  },
-  {
-    "Titulo": "Adaptar datapacks al nuevo enfoque",
-    "Estado": "En Progreso",
-    "Descripcion": "Revisar y modificar los sistemas actuales para que apoyen la construcción."
-  },
-  {
     "Titulo": "Limpiar roles inactivos en Discord",
     "Estado": "En Progreso",
     "Descripcion": "Eliminar roles que ya no tienen uso o están obsoletos."
@@ -328,21 +318,6 @@
     "Titulo": "Programar logica de evento de inocentes en Datapack",
     "Estado": "Concepto",
     "Descripcion": "Crear comandos temporales o scripts que ejecuten las mecanicas de broma."
-  },
-  {
-    "Titulo": "Rediseñar web btc tipo videojuego",
-    "Estado": "En Progreso",
-    "Descripcion": "Hacer un rediseño a la web + cambio de logo y banner"
-  },
-  {
-    "Titulo": "Diseño banner btc",
-    "Estado": "En Progreso",
-    "Descripcion": "Diseño banner tipo minecraft update"
-  },
-  {
-    "Titulo": "Diseño logo btc",
-    "Estado": "En Progreso",
-    "Descripcion": "Nuevo logo tipo oro bloque 3d biseñado e incrustado con las letras BTC"
   },
   {
     "Titulo": "Mapart 1er logo btc",
