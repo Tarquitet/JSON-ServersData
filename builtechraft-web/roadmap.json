@@ -1,18 +1,8 @@
 [
   {
-    "Titulo": "Limpiar roles inactivos en Discord",
-    "Estado": "En Progreso",
-    "Descripcion": "Eliminar roles que ya no tienen uso o están obsoletos."
-  },
-  {
     "Titulo": "Definir árbol jerárquico de roles",
     "Estado": "En Progreso",
     "Descripcion": "Establecer los niveles de autoridad (Owner, Admin, Mod)."
-  },
-  {
-    "Titulo": "Asignar jerarquías y colores en Discord",
-    "Estado": "En Progreso",
-    "Descripcion": "Aplicar visualmente el árbol jerárquico en la configuración del servidor."
   },
   {
     "Titulo": "Documentar protocolo de encendido de pruebas",
