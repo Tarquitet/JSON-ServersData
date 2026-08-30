@@ -91,25 +91,11 @@
     "Url": "https://modrinth.com/project/footprint"
   },
   {
-    "Name": "Ghast Pedal! - Continued",
-    "Desc": "Adds the ability to sprint while riding on a Happy Ghast, giving it a modest boost. Ported by Wjph2k10.",
-    "Type": "Datapack",
-    "Icon": "https://cdn.modrinth.com/data/HfZcdZSA/3553082895873c51d67144a2a894cf146dee2e07_96.webp",
-    "Url": "https://modrinth.com/project/ghast-pedal-continued"
-  },
-  {
     "Name": "Graves",
     "Desc": "A fully customizable grave to save your loot upon death!",
     "Type": "Datapack",
     "Icon": "https://cdn.modrinth.com/data/kieAM9Us/7236413aa99d28e8ead181c8d1bdd5448c74db22_96.webp",
     "Url": "https://modrinth.com/project/ly-graves"
-  },
-  {
-    "Name": "Info Tools",
-    "Desc": "Modified Coordinates HUD to make your coordinates appear when  you have a compass in your inventory and the time of day appear when you have a clock in your inventory",
-    "Type": "Datapack",
-    "Icon": "https://cdn.modrinth.com/data/vSoR3IrK/6b6df6c6b565b85ebf60a1e0323b8370f3a0db80_96.webp",
-    "Url": "https://modrinth.com/project/info-tools"
   },
   {
     "Name": "Ledger",
