@@ -1,5 +1,15 @@
 [
   {
+    "Nombre": "tarquitet",
+    "Rol": "FUNDADOR",
+    "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
+    "Bio": "Fundador y arquitecto principal del servidor. Amante del detalle técnico y la optimización extrema.",
+    "Color": "#f97316",
+    "Twitch": "https://www.twitch.tv/tarquitet",
+    "Youtube": "https://youtube.com/@Tarquitet",
+    "Github": "https://github.com/Tarquitet"
+  },
+  {
     "Nombre": "Aguila003",
     "Rol": "ADMIN",
     "Avatar": "https://drive.google.com/thumbnail?id=1e7Pfar_e962pb01XRHoVw5VPUsmA_s-c&sz=w800",
@@ -10,33 +20,13 @@
     "Github": ""
   },
   {
-    "Nombre": "AkikoWolf",
-    "Rol": "RETIRADO",
-    "Avatar": "https://drive.google.com/thumbnail?id=1UWkKQBRjnpGFUzdevmDlBfGxZqez8JHo&sz=w800",
-    "Bio": "Encargada de la logística y administración de proyectos",
-    "Color": "#71717a",
+    "Nombre": "soshy",
+    "Rol": "ADMIN",
+    "Avatar": "https://drive.google.com/thumbnail?id=13KdAyTlnS0oBYRMOK7f-gakhh4vh6bfV&sz=w800",
+    "Bio": "Experta en armamentos y tanques de guerra. Le interesa el Create Mod y ayudaba a levantar los ánimos de Tarquitet.",
+    "Color": "#ef4444",
     "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
-    "Nombre": "aliang",
-    "Rol": "BETATESTER",
-    "Avatar": "https://drive.google.com/thumbnail?id=1AMV9bZfHDCE6du-RBgTRz0bWDoYHkLRw&sz=w800",
-    "Bio": "Fue la primer usuaria en acceder el mundo de pruebas de Builtechraft (antes de KittyCupcake)",
-    "Color": "#0F079C",
-    "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
-    "Nombre": "Dip_UwU",
-    "Rol": "RETIRADO",
-    "Avatar": "https://drive.google.com/thumbnail?id=17QvXTGIEECvg-3NToRkSKppB4vYuE_z4&sz=w800",
-    "Bio": "Acompañante del jugador retirado JoseJose, aportó con algunas granjas que hoy en día están rotas.",
-    "Color": "#71717a",
-    "Twitch": "",
-    "Youtube": "",
+    "Youtube": "https://www.youtube.com/@soshyyt2040",
     "Github": ""
   },
   {
@@ -60,36 +50,6 @@
     "Github": ""
   },
   {
-    "Nombre": "snowing",
-    "Rol": "RETIRADO",
-    "Avatar": "https://drive.google.com/thumbnail?id=17bFavpjIS8DAglmWa8A6ZL0Rw1_otoX7&sz=w800",
-    "Bio": "Antiguo staff del servidor, aportó en la gestión comunitaria hace unos años.",
-    "Color": "#71717a",
-    "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
-    "Nombre": "soshy",
-    "Rol": "ADMIN",
-    "Avatar": "https://drive.google.com/thumbnail?id=13KdAyTlnS0oBYRMOK7f-gakhh4vh6bfV&sz=w800",
-    "Bio": "Experta en armamentos y tanques de guerra. Le interesa el Create Mod y ayudaba a levantar los ánimos de Tarquitet.",
-    "Color": "#ef4444",
-    "Twitch": "",
-    "Youtube": "https://www.youtube.com/@soshyyt2040",
-    "Github": ""
-  },
-  {
-    "Nombre": "SweetHeart",
-    "Rol": "RETIRADO",
-    "Avatar": "https://drive.google.com/thumbnail?id=1LeqnApUeYKbEr-3fqv9oB-K1Z51SDLAh&sz=w800",
-    "Bio": "Jugador quién dió los primeros conceptos sobre Minecraft Técnico en Builtehcraft. Aportó con su base para ayudar a otros jugadores.",
-    "Color": "#71717a",
-    "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
     "Nombre": "t7erminatort",
     "Rol": "VIGILANTE",
     "Avatar": "https://drive.google.com/thumbnail?id=1pMAr8QlGQ3vW7j30g-0T5tX5iyUDW9fX&sz=w800",
@@ -100,13 +60,53 @@
     "Github": ""
   },
   {
-    "Nombre": "tarquitet",
-    "Rol": "FUNDADOR",
-    "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
-    "Bio": "Fundador y arquitecto principal del servidor. Amante del detalle técnico y la optimización extrema.",
-    "Color": "#f97316",
-    "Twitch": "https://www.twitch.tv/tarquitet",
-    "Youtube": "https://youtube.com/@Tarquitet",
+    "Nombre": "aliang",
+    "Rol": "BETATESTER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1AMV9bZfHDCE6du-RBgTRz0bWDoYHkLRw&sz=w800",
+    "Bio": "Fue la primer usuaria en acceder el mundo de pruebas de Builtechraft (antes de KittyCupcake)",
+    "Color": "#0F079C",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "AkikoWolf",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=1UWkKQBRjnpGFUzdevmDlBfGxZqez8JHo&sz=w800",
+    "Bio": "Encargada de la logística y administración de proyectos",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "Dip_UwU",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=17QvXTGIEECvg-3NToRkSKppB4vYuE_z4&sz=w800",
+    "Bio": "Acompañante del jugador retirado JoseJose, aportó con algunas granjas que hoy en día están rotas.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "snowing",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=17bFavpjIS8DAglmWa8A6ZL0Rw1_otoX7&sz=w800",
+    "Bio": "Antiguo staff del servidor, aportó en la gestión comunitaria hace unos años.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "SweetHeart",
+    "Rol": "RETIRADO",
+    "Avatar": "https://drive.google.com/thumbnail?id=1LeqnApUeYKbEr-3fqv9oB-K1Z51SDLAh&sz=w800",
+    "Bio": "Jugador quién dió los primeros conceptos sobre Minecraft Técnico en Builtehcraft. Aportó con su base para ayudar a otros jugadores.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
     "Github": ""
   },
   {
