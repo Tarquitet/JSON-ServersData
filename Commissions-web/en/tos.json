@@ -1,0 +1,128 @@
+[
+  {
+    "type": "S",
+    "order": "-",
+    "title": "BEFORE, DURING AND AFTER",
+    "content": "Thank you for supporting my work! To ensure a smooth, secure, and professional collaboration, please carefully read the following Terms of Service before requesting a commission. By proceeding, you automatically agree to these terms.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "1",
+    "title": "PAYMENT CONDITIONS AND METHODS",
+    "content": "- All payments must be processed exclusively via **PayPal Invoices** to ensure legal tracking and mutual protection against chargebacks.\n- The client provides their email and the artist send the facture to that email provided.\n- Direct transfers (e.g., via PayPal.me or links found on my social media) are **STRICTLY NOT ACCEPTED** as valid commission payments.\n- If you don't have a PayPal account, you can use other payment method (info before rules, e.g. Nequi, Global66).\n- An **initial payment of 50%** is required before starting any structural work.\n- The **remaining 50%** must be settled after approval of the watermarked final work.\n- **FINAL DELIVERY RETENTION:** High-resolution files are strictly retained until the payment is verified as **\"Completed\"** in my account. Screenshots of \"Pending\" transfers can be accepted as valid. (100% upfront is also welcome).",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "2",
+    "title": "COMMISSIONS AND THIRD-PARTY FEES",
+    "content": "- The prices listed in the commission table represent the NET amount the artist must receive.\n- The client is responsible for covering additional processing fees imposed by PayPal.\n- The final amount will be automatically calculated on the official Invoice to ensure the total payment covers both the service and the transaction fees.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "3",
+    "title": "COMMERCIAL USE SURCHARGES",
+    "content": "- Base prices include Personal Use only (icons, personal banners, printing for private use).\n- Monetizing the work (merchandising, commercial streaming, VTuber assets, promotions) requires a **Commercial License** (read tier specifications).\n- It is strictly **forbidden** to use my work to **train AI models** or **sell as NFTs**.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "4",
+    "title": "YCH AND POSE COMPLEXITY",
+    "content": "- Base prices may increase depending on the complexity of the character design (wings, detailed armor, complex patterns).\n- High-difficulty poses, extreme perspectives (severe foreshortening), or complex physical interactions between multiple characters will also increase the value.\n- This adjustment will be discussed transparently during the quote phase prior to the initial invoice.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "5",
+    "title": "REFERENCES AND PROVIDED MATERIAL",
+    "content": "- By providing a sketch, idea, or specific pose, the client legally warrants they have the rights to use it.\n- The artist is not liable for copyright claims arising from client-provided material. It is the client's absolute responsibility to verify their sources.\n- Real photographic references, 3D models, or YCH catalog designs are highly recommended.\n- AI-generated references are accepted for specific concepts, but interpreting them may increases the complexity value of the final piece.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "6",
+    "title": "SKETCH PROCESS AND REVISIONS",
+    "content": "- The client will receive constant updates during the sketching phase.\n- Up to **3 major structural corrections** (pose, anatomy, main clothing) are allowed free of charge at this stage.\n- Once the sketch is approved and lineart or base color begins, the structure is officially locked.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "7",
+    "title": "LATE CHANGES AND PENALTIES",
+    "content": "- Requesting structural, anatomical, or pose changes during the coloring or detailing phase will incur an additional fee.\n- This fee ranges between **20% and 50%** of the total price, depending on the hours required to undo and redo the processed work.\n- Minor adjustments (e.g., base color tones) can be discussed without extra charge at the artist's discretion.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "8",
+    "title": "WAIT TIMES AND COMMUNICATION",
+    "content": "- Standard response time: **3-7 business days**.\n- Completion time: **1 to 4 weeks** depending on complexity and the current queue.\n- Weekends are strictly reserved for rest; no progress updates or quick replies will be provided on these days.\n- In the event of an unexpected delay, the client will be notified immediately.\n- I appreciate your patience as I meticulously manage my schedule to deliver the highest quality artwork possible.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "9",
+    "title": "SALE - SIGNATURE - REDISTRIBUTION",
+    "content": "- The client is granted full personal use rights upon complete payment.\n- Reselling the artwork for profit is **100% PROHIBITED** without a commercial license.\n- Proper credit to the artist is mandatory when publishing the commission on any platform.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "10",
+    "title": "SOCIAL MEDIA AND PUBLIC DISPLAY",
+    "content": "- The artist reserves full rights to publish the commissioned work on their portfolios and social networks.\n- The client has a **7-day period** post-delivery to request privacy. If no request is made, the artist will proceed to publish freely.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "11",
+    "title": "IMAGE EDITING - IMAGE FILE",
+    "content": "- The client has a **7-day period** post-delivery to request minor post-edits.\n- Editing the image yourself is not permitted without prior authorization. Post-edit requests made after 7 days are subject to availability and extra charges.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "12",
+    "title": "ABOUT THE SOURCE FILE (.PSD)",
+    "content": "- The original **.psd** project file is not provided by default.\n- Purchasing the source file incurs a strict extra charge. If purchased, it is delivered with locked layers. Extra fees apply to unlock specific layers.\n- The artist's signature layer is permanent.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "13",
+    "title": "SIGNATURE VIOLATION",
+    "content": "- The artist's signature is mandatory and will never be removed from the final artwork.\n- Removing, cropping, or altering the signature automatically voids any right to refunds, future support, or modifications.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "14",
+    "title": "FINAL DELIVERY",
+    "content": "- Final files are delivered via a private **Google Drive** link.\n- This link remains active for exactly **30 days**. The client is responsible for downloading and backing up their files within this period (a permanent link can be provided at no cost if explicitly requested at the start).\n- The artist is not responsible for the integrity of files requested to be sent through third-party platforms (Telegram, Email, etc.).",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "15",
+    "title": "CONTENT ORDER IN FOLDERS",
+    "content": "- To ensure the best balance between quality and performance, files are delivered in **PNG** (supports transparency) and optimized **JPG**.\n- Requests for massive resolutions or specialized formats beyond standard web-use may incur an extra fee for processing time.\n- Depending on the layer, note, color, or any extra content added or changed, it will be located in the subfolder with its respective code name.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "16",
+    "title": "FOLDER HIERARCHY",
+    "content": "📦 [Delivery Date] + [Username] + [Artist]\n├── 📄 IMPORTANT.txt (T.O.S Document)\n├── 📂 Optimized-NormalQuality\n│   ├── 🖼️ PNG (Transparency)\n│   └── 🖼️ JPG (Small size)\n├── 💎 SuperiorQuality (Extra fee)\n├── 💎 UltraOptimizedQuality (Less size, good quality - Extra fee)\n├── 🎨 Lineart progress\n└── 📑 References",
+    "update_date": ""
+  },
+  {
+    "type": "F",
+    "order": "-",
+    "title": "-",
+    "content": "// INFORMATION AND WARNINGS //",
+    "update_date": "11-May-2026"
+  }
+]
