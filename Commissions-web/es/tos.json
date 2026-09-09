@@ -1,0 +1,128 @@
+[
+  {
+    "type": "S",
+    "order": "-",
+    "title": "ANTES, DURANTE Y DESPUÉS",
+    "content": "¡Gracias por apoyar mi trabajo! Para garantizar una colaboración fluida, segura y profesional, lea atentamente los siguientes Términos de Servicio antes de solicitar un encargo. Al continuar, acepta automáticamente estos términos.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "1",
+    "title": "CONDICIONES Y MÉTODOS DE PAGO",
+    "content": "- Todos los pagos deben procesarse exclusivamente mediante **Facturas de PayPal** para garantizar el seguimiento legal y la protección mutua contra contracargos.\n\n- El cliente proporciona su correo electrónico y el artista envía la factura a dicho correo.\n\n- Las transferencias directas (por ejemplo, a través de PayPal.me o enlaces en mis redes sociales) **NO SE ACEPTAN** como pagos válidos.\n\n- Si no tienes una cuenta de PayPal, puedes usar otro método de pago (consulta las reglas, por ejemplo, Nequi o Global66).\n\n- Se requiere un **pago inicial del 50%** antes de comenzar cualquier trabajo estructural.\n\n- El **50% restante** debe abonarse tras la aprobación del trabajo final con marca de agua.\n\n- **CONSERVACIÓN DE LA ENTREGA FINAL:** Los archivos de alta resolución se conservan hasta que el pago se verifique como **\"Completado\"** en mi cuenta. Se aceptan capturas de pantalla de transferencias \"Pendientes\" como válidas. (También se acepta el pago del 100% por adelantado).",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "2",
+    "title": "COMISIONES Y HONORARIOS DE TERCEROS",
+    "content": "- Los precios indicados en la tabla de comisiones representan el importe neto que el artista debe recibir.\n\n- El cliente es responsable de cubrir las comisiones adicionales de procesamiento que imponga PayPal.\n\n- El importe final se calculará automáticamente en la factura oficial para garantizar que el pago total cubra tanto el servicio como las comisiones de transacción.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "3",
+    "title": "RECARGOS POR USO COMERCIAL",
+    "content": "- Los precios base incluyen únicamente el uso personal (iconos, banners personales, impresión para uso privado).\n\n- Para monetizar el trabajo (merchandising, streaming comercial, recursos para VTubers, promociones) se requiere una **Licencia Comercial** (consulta las especificaciones de cada nivel).\n\n- Está estrictamente **prohibido** usar mi trabajo para **entrenar modelos de IA** o **venderlo como NFT**.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "4",
+    "title": "YCH Y COMPLEJIDAD DE POSE",
+    "content": "- Los precios base pueden aumentar según la complejidad del diseño del personaje (alas, armadura detallada, patrones complejos).\n\n- Las poses de alta dificultad, las perspectivas extremas (escorzo severo) o las interacciones físicas complejas entre varios personajes también incrementarán el precio.\n\n- Este ajuste se discutirá de forma transparente durante la fase de cotización, antes de la factura inicial.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "5",
+    "title": "REFERENCIAS Y MATERIAL PROPORCIONADO",
+    "content": "- Al proporcionar un boceto, una idea o una pose específica, el cliente garantiza legalmente que posee los derechos para utilizarlo.\n\n- El artista no se hace responsable de las reclamaciones de derechos de autor derivadas del material proporcionado por el cliente. Es responsabilidad absoluta del cliente verificar sus fuentes.\n\n- Se recomienda encarecidamente el uso de referencias fotográficas reales, modelos 3D o diseños de catálogos YCH.\n\n- Se aceptan referencias generadas por IA para conceptos específicos, pero su interpretación puede aumentar la complejidad de la obra final.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "6",
+    "title": "PROCESO DE BOCETOS Y REVISIONES",
+    "content": "- El cliente recibirá actualizaciones constantes durante la fase de boceto.\n\n- Se permiten hasta **3 correcciones estructurales importantes** (pose, anatomía, vestimenta principal) sin costo adicional en esta etapa.\n\n- Una vez aprobado el boceto y comenzado el delineado o el color base, la estructura queda oficialmente definida.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "7",
+    "title": "CAMBIOS DE ÚLTIMA HORA Y PENALTIS",
+    "content": "- Solicitar cambios estructurales, anatómicos o de pose durante la fase de coloración o detallado conllevará un cargo adicional.\n\n- Este cargo oscila entre el **20 % y el 50 %** del precio total, dependiendo de las horas necesarias para deshacer y rehacer el trabajo realizado.\n\n- Se pueden realizar ajustes menores (por ejemplo, en los tonos del color base) sin cargo adicional, a discreción del artista.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "8",
+    "title": "TIEMPOS DE ESPERA Y COMUNICACIÓN",
+    "content": "- Tiempo de respuesta estándar: **3-7 días hábiles**.\n\n- Tiempo de entrega: **1 a 4 semanas**, según la complejidad y la carga de trabajo actual.\n\n- Los fines de semana están reservados exclusivamente para el descanso; no se proporcionarán actualizaciones de progreso ni respuestas rápidas durante estos días.\n\n- En caso de retraso inesperado, se notificará al cliente de inmediato.\n\n- Agradezco su paciencia mientras gestiono mi agenda meticulosamente para ofrecerle un trabajo de la más alta calidad.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "9",
+    "title": "VENTA - FIRMA - REDISTRIBUCIÓN",
+    "content": "- El cliente obtiene plenos derechos de uso personal una vez realizado el pago completo.\n\n- La reventa de la obra de arte con fines de lucro está **totalmente prohibida** sin una licencia comercial.\n\n- Es obligatorio dar el crédito correspondiente al artista al publicar la obra en cualquier plataforma.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "10",
+    "title": "REDES SOCIALES Y EXHIBICIÓN PÚBLICA",
+    "content": "- El artista se reserva el derecho absoluto de publicar la obra encargada en su portafolio y redes sociales.\n\n- El cliente dispone de un plazo de **7 días** tras la entrega para solicitar privacidad. Si no se recibe ninguna solicitud, el artista procederá a publicarla libremente.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "11",
+    "title": "EDICIÓN DE IMÁGENES - ARCHIVO DE IMAGEN",
+    "content": "- El cliente dispone de un plazo de **7 días** tras la entrega para solicitar pequeñas correcciones posteriores.\n\n- No está permitido editar la imagen por cuenta propia sin autorización previa. Las solicitudes de corrección posteriores realizadas después de 7 días están sujetas a disponibilidad y a cargos adicionales.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "12",
+    "title": "ACERCA DEL ARCHIVO FUENTE (.PSD)",
+    "content": "- El archivo de proyecto **.psd** original no se incluye por defecto.\n\n- La compra del archivo fuente conlleva un cargo adicional. Si se compra, se entrega con las capas bloqueadas. Se aplican cargos adicionales para desbloquear capas específicas.\n\n- La firma del artista es permanente.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "13",
+    "title": "VIOLACIÓN DE LA FIRMA",
+    "content": "La firma del artista es obligatoria y nunca se eliminará de la obra final.\n\nEliminar, recortar o alterar la firma anula automáticamente cualquier derecho a reembolsos, asistencia futura o modificaciones.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "14",
+    "title": "ENTREGA FINAL",
+    "content": "- Los archivos finales se entregan mediante un enlace privado de **Google Drive**.\n\n- Este enlace permanece activo durante **30 días**. El cliente es responsable de descargar y guardar sus archivos dentro de este plazo (se puede proporcionar un enlace permanente sin costo adicional si se solicita explícitamente al inicio).\n\n- El artista no se responsabiliza de la integridad de los archivos que se soliciten para su envío a través de plataformas de terceros (Telegram, correo electrónico, etc.).",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "15",
+    "title": "ORDEN DEL CONTENIDO EN LAS CARPETAS",
+    "content": "Para garantizar el mejor equilibrio entre calidad y rendimiento, los archivos se entregan en **PNG** (con transparencia) y **JPG** optimizado.\n\nLas solicitudes de resoluciones muy altas o formatos especializados que no sean los estándar para uso web pueden generar un cargo adicional por tiempo de procesamiento.\n\nSegún la capa, nota, color o cualquier contenido adicional añadido o modificado, se ubicará en la subcarpeta con su código correspondiente.",
+    "update_date": ""
+  },
+  {
+    "type": "I",
+    "order": "16",
+    "title": "JERARQUÍA DE CARPETAS",
+    "content": "📦 [Fecha de entrega] + [Nombre de usuario] + [Artista]\n├── 📄 IMPORTANT.txt (Documento de Términos de Servicio)\n├── 📂 Optimizado - Calidad normal\n│ ├── 🖼️ PNG (Transparencia)\n│ └── 🖼️ JPG (Tamaño pequeño)\n├── 💎 Calidad superior (Costo adicional)\n├── 💎 Calidad ultraoptimizada (Menor tamaño, buena calidad - Costo adicional)\n├── 🎨 Proceso del lineart\n└── 📑 Referencias",
+    "update_date": ""
+  },
+  {
+    "type": "F",
+    "order": "-",
+    "title": "-",
+    "content": "// INFORMACIÓN Y ADVERTENCIAS //",
+    "update_date": "11-May-2026"
+  }
+]
