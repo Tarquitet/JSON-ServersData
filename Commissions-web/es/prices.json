@@ -1,0 +1,65 @@
+[
+  {
+    "tier": "sketch",
+    "original_price": "$40",
+    "discount_price": "$20",
+    "description": "portrait",
+    "features": "- Boceto\n- Fondo transparente (incluido)\n- Fondo de color sólido o degradado (incluido)\n- Sombras simples: +$15 USD\n- Fondo con patrón: +$15 USD\n- Fondo complejo: +$20 USD\n- Fondo detallado: +$50 USD\n- Personaje adicional: +75% del precio base\n- Tipo de licencia: +$50 a $200 USD\n- El precio varía según la dificultad (consultar información)\n- Tarifas no incluidas"
+  },
+  {
+    "tier": "sketch",
+    "original_price": "$50",
+    "discount_price": "$25",
+    "description": "halfbody",
+    "features": ""
+  },
+  {
+    "tier": "sketch",
+    "original_price": "$60",
+    "discount_price": "$30",
+    "description": "fullbody",
+    "features": ""
+  },
+  {
+    "tier": "flatcolor",
+    "original_price": "$61",
+    "discount_price": "$30",
+    "description": "portrait",
+    "features": "- Colores base\n- Fondo transparente (incluido)\n- Fondo de color sólido o degradado (incluido)\n- Sombras simples: +$15 USD\n- Fondo con patrón: +$15 USD\n- Fondo complejo: +$20 USD\n- Fondo detallado: +$50 USD\n- Personaje adicional: +75% del precio base\n- Tipo de licencia: +$50 a $200 USD\n- El precio varía según la dificultad (consultar información)\n- Tarifas no incluidas"
+  },
+  {
+    "tier": "flatcolor",
+    "original_price": "$76",
+    "discount_price": "$38",
+    "description": "halfbody",
+    "features": ""
+  },
+  {
+    "tier": "flatcolor",
+    "original_price": "$91",
+    "discount_price": "$46",
+    "description": "fullbody",
+    "features": ""
+  },
+  {
+    "tier": "fullcolor",
+    "original_price": "$100",
+    "discount_price": "$50",
+    "description": "portrait",
+    "features": "- Renderizado completo\n- Sombras/luces suaves\n- Fondo transparente (incluido)\n- Fondo de color sólido o degradado (incluido)\n- Fondo con patrón: +$15 USD\n- Fondo complejo: +$20 USD\n- Fondo detallado: +$50 USD\n- Personaje adicional: +75% del precio base\n- Tipo de licencia: +$50 a $200 USD\n- El precio varía según la dificultad (consultar información)\n- Tarifas no incluidas"
+  },
+  {
+    "tier": "fullcolor",
+    "original_price": "$125",
+    "discount_price": "$63",
+    "description": "halfbody",
+    "features": ""
+  },
+  {
+    "tier": "fullcolor",
+    "original_price": "$150",
+    "discount_price": "$75",
+    "description": "fullbody",
+    "features": ""
+  }
+]
