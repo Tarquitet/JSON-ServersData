@@ -1,0 +1,66 @@
+[
+  {
+    "type": "DO",
+    "content": "Animales / Criaturas"
+  },
+  {
+    "type": "DO",
+    "content": "Armas / Plantas"
+  },
+  {
+    "type": "DO",
+    "content": "Diseño de personajes"
+  },
+  {
+    "type": "DO",
+    "content": "Furry / Anthro"
+  },
+  {
+    "type": "DO",
+    "content": "Sangre leve"
+  },
+  {
+    "type": "DO",
+    "content": "Ligeramente sugerente (coste adicional)"
+  },
+  {
+    "type": "DO",
+    "content": "Paisajes / Fondos"
+  },
+  {
+    "type": "DO",
+    "content": "romance"
+  },
+  {
+    "type": "DO",
+    "content": "Humanos"
+  },
+  {
+    "type": "DONT",
+    "content": "Propaganda política"
+  },
+  {
+    "type": "DONT",
+    "content": "Bara / Hipermuscular"
+  },
+  {
+    "type": "DONT",
+    "content": "Contenido explícito para adultos / Desnudez"
+  },
+  {
+    "type": "DONT",
+    "content": "Contenido ofensivo/de odio"
+  },
+  {
+    "type": "DONT",
+    "content": "Violencia gráfica extrema / Gore extremo"
+  },
+  {
+    "type": "DONT",
+    "content": "Mecha / Maquinaria compleja"
+  },
+  {
+    "type": "DONT",
+    "content": "Contenido para menores (NSFW)"
+  }
+]
