@@ -1,16 +1,7 @@
 [
   {
-    "title": "Kazumi-Tamamo",
-    "filename": "https://drive.google.com/thumbnail?id=11bkXvjZtWGpzK4S5B1Ii3mEFwgsSL-1T&sz=w1200",
-    "category": "Sketch",
-    "render_type": "Base",
-    "background": "None",
-    "body_type": "Headshot",
-    "date": "2026"
-  },
-  {
     "title": "SoshyMacabreSmile",
-    "filename": "https://drive.google.com/thumbnail?id=17MNk-IOhrOWfd_S-nvtqOYPkukl5zSw8&sz=w1200",
+    "filename": "https://drive.google.com/thumbnail?id=1iRKd1NKpvBmO77u1VLaUHPIFWRRucvMy&sz=w1200",
     "category": "Sketch",
     "render_type": "Base",
     "background": "None",
@@ -36,6 +27,15 @@
     "date": "2026"
   },
   {
+    "title": "Kazumi-Tamamo",
+    "filename": "https://drive.google.com/thumbnail?id=11bkXvjZtWGpzK4S5B1Ii3mEFwgsSL-1T&sz=w1200",
+    "category": "Sketch",
+    "render_type": "Base",
+    "background": "None",
+    "body_type": "Fullbody",
+    "date": "2026"
+  },
+  {
     "title": "AtilaFace",
     "filename": "https://drive.google.com/thumbnail?id=1J14RJm_nThTbbJs8D7Fcg9EDAvsUnF_I&sz=w1200",
     "category": "Sketch",
@@ -46,7 +46,7 @@
   },
   {
     "title": "EgypcianRenamon",
-    "filename": "https://drive.google.com/thumbnail?id=1NKKokedM2FAZPscVJsm_EdSMdlIJ8A2Y&sz=w1200",
+    "filename": "https://drive.google.com/thumbnail?id=1jAhzPkD74jPqaRZ-w0si2Th_kXBy5xQP&sz=w1200",
     "category": "Sketch",
     "render_type": "Base",
     "background": "ComplexBG",
