@@ -1,15 +1,15 @@
 {
   "JavaSmp": "btcsmp.tarquitet.com",
   "JavaCreative": "btccreative.tarquitet.com",
-  "BedrockSmp": "btcsmp.tarquitet.com",
-  "BedrockCreative": "btccreative.tarquitet.com",
+  "BedrockSmp": "null",
+  "BedrockCreative": "null",
   "BedrockPort": "19232",
   "DiscordURL": "https://discord.gg/4KzRH5DPzx",
   "MapaSurvival": "http://btcsmpmap.tarquitet.com:25625",
-  "MapaCreativo": "http://btccreativemap.tarquitet.com:25674",
-  "JavaMin": "26.1.2",
-  "JavaMax": "26.2",
-  "BedrockVer": "26.0 hasta la 26.45",
-  "WikiURL": "builtechraftwiki.tarquitet.com/",
+  "MapaCreativo": "http://btccreativemap.tarquitet.com:25622",
+  "JavaMin": "26.3",
+  "JavaMax": "26.3",
+  "BedrockVer": "Bedrock soporta 26.2",
+  "WikiURL": "null",
   "DonacionURL": "https://ko-fi.com/tarquitet"
 }
