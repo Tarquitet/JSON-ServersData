@@ -1,0 +1,112 @@
+[
+  {
+    "Nombre": "soshy",
+    "Rol": "ADMIN",
+    "Avatar": "https://drive.google.com/thumbnail?id=13KdAyTlnS0oBYRMOK7f-gakhh4vh6bfV&sz=w800",
+    "Bio": "An expert in weaponry and tanks. She's interested in Create Mod and helped to lift Tarquitet's spirits.",
+    "Color": "#ef4444",
+    "Twitch": "",
+    "Youtube": "https://www.youtube.com/@soshyyt2040",
+    "Github": ""
+  },
+  {
+    "Nombre": "AkikoWolf",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=1UWkKQBRjnpGFUzdevmDlBfGxZqez8JHo&sz=w800",
+    "Bio": "Responsible for logistics and project management",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "aliang",
+    "Rol": "BETA TESTER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1AMV9bZfHDCE6du-RBgTRz0bWDoYHkLRw&sz=w800",
+    "Bio": "She was the first user to access the Builtechraft test environment (before KittyCupcake)",
+    "Color": "#0F079C",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "Dip_UwU",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=17QvXTGIEECvg-3NToRkSKppB4vYuE_z4&sz=w800",
+    "Bio": "Companion of the retired player JoseJose, he contributed with some farms that are now broken.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "kittycupcake",
+    "Rol": "VIGILANT",
+    "Avatar": "https://drive.google.com/thumbnail?id=1TK51YHQIsbGsJ71vdoMlDjgVn-4MrwuT&sz=w800",
+    "Bio": "Veteran community monitor. She helped with the early tests of the survival world when the server used plugins.",
+    "Color": "#3b82f6",
+    "Twitch": "https://www.twitch.tv/x_kittycupcake_x",
+    "Youtube": "https://www.youtube.com/channel/UCVEf2GUc_0LkQzXB1fwE4QQ",
+    "Github": ""
+  },
+  {
+    "Nombre": "snow",
+    "Rol": "VIGILANT",
+    "Avatar": "https://drive.google.com/thumbnail?id=1ETZlUc5KGHEkIc2MwFdkxx7GZ4DG1ESL&sz=w800",
+    "Bio": "Responsible for logistics and project management",
+    "Color": "#3b82f6",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "snowing",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=17bFavpjIS8DAglmWa8A6ZL0Rw1_otoX7&sz=w800",
+    "Bio": "Former server staff, contributed to community management a few years ago.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "SweetHeart",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=1LeqnApUeYKbEr-3fqv9oB-K1Z51SDLAh&sz=w800",
+    "Bio": "A player who introduced the first concepts of technical Minecraft on Builtehcraft. He contributed his knowledge to help other players.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "t7erminatort",
+    "Rol": "VIGILANT",
+    "Avatar": "https://drive.google.com/thumbnail?id=1pMAr8QlGQ3vW7j30g-0T5tX5iyUDW9fX&sz=w800",
+    "Bio": "Companion of Tarquitet who observed the foundations of the server before its creation. A good communicator who seeks a fair balance for all.",
+    "Color": "#3b82f6",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "tarquitet",
+    "Rol": "FOUNDER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
+    "Bio": "Founder and lead server architect. Lover of technical detail and extreme optimization.",
+    "Color": "#f97316",
+    "Twitch": "https://www.twitch.tv/tarquitet",
+    "Youtube": "https://youtube.com/@Tarquitet",
+    "Github": "https://github.com/Tarquitet"
+  },
+  {
+    "Nombre": "UnPocoDeRuch",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=1oJZfg_2F_TUlxgRv7J5mj9yc97Y9kBDN&sz=w800",
+    "Bio": "Former server staff member. Sweet's colleague.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  }
+]
