@@ -1,25 +1,5 @@
 [
   {
-    "Titulo": "Definir árbol jerárquico de roles",
-    "Estado": "En Progreso",
-    "Descripcion": "Establecer los niveles de autoridad (Owner, Admin, Mod)."
-  },
-  {
-    "Titulo": "Documentar protocolo de encendido de pruebas",
-    "Estado": "Planeado",
-    "Descripcion": "Escribir las instrucciones para iniciar y apagar el servidor de pruebas."
-  },
-  {
-    "Titulo": "Crear rol Tester y canal de feedback",
-    "Estado": "Planeado",
-    "Descripcion": "Configurar el rol en Discord para quienes probarán sistemas."
-  },
-  {
-    "Titulo": "Reclutar voluntarios para pruebas",
-    "Estado": "Planeado",
-    "Descripcion": "Abrir convocatoria en Discord para asignar el rol Tester."
-  },
-  {
     "Titulo": "Crear scoreboards base para roles in-game",
     "Estado": "Concepto",
     "Descripcion": "Configurar la base de datos interna del juego para los rangos."
@@ -36,12 +16,12 @@
   },
   {
     "Titulo": "Texturepack para los roles en mc",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "¿Cómo se ve y se usaría un texturepack con roles si no son un item o bloque existente en el juego?"
   },
   {
     "Titulo": "Como crear y comprender un texturepack para mc",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "El usuario debe comprender como usar un texturepack de minecraft, en este caso, para agregar un nuevo item con textura segun el idioma"
   },
   {
@@ -71,17 +51,17 @@
   },
   {
     "Titulo": "Definir item base vanilla para la moneda",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "Seleccionar qué item del juego servirá como base para la economía."
   },
   {
     "Titulo": "Establecer tabla de valores de intercambio",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "Definir el valor de la moneda frente a items decorativos y ventajas."
   },
   {
     "Titulo": "Diseñar texturas para monedas BTC",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Crear el pixel art que representará visualmente la moneda."
   },
   {
@@ -106,32 +86,32 @@
   },
   {
     "Titulo": "Diseñar receta para crafteo de hamburguesa",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Definir los ingredientes vanilla necesarios para la nueva receta."
   },
   {
     "Titulo": "Programar archivo JSON para la hamburguesa",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Crear la lógica del crafteo dentro de la carpeta recipes del Datapack."
   },
   {
     "Titulo": "Diseñar iconos visuales para rangos BTC",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "Crear los gráficos pequeños que representarán cada rol en la interfaz."
   },
   {
     "Titulo": "Mapear iconos de rangos en la fuente del RP",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "Integrar las imágenes dentro de la carpeta font/characters del Resource Pack."
   },
   {
     "Titulo": "Recopilar imagenes para nuevos cuadros",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "Seleccionar el arte complejo que reemplazará o añadirá pinturas al juego."
   },
   {
     "Titulo": "Integrar texturas de cuadros en Resource Pack",
-    "Estado": "En Progreso",
+    "Estado": "Concepto",
     "Descripcion": "Modificar los archivos correspondientes a las pinturas vanilla."
   },
   {
@@ -151,12 +131,12 @@
   },
   {
     "Titulo": "Registrar audios en el archivo sounds.json",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Configurar el Resource Pack para que el juego reconozca las nuevas canciones."
   },
   {
     "Titulo": "Programar items para reproducir musica custom",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Crear un sistema en el Datapack para que al usar un item, se ejecute /playsound."
   },
   {
@@ -181,22 +161,22 @@
   },
   {
     "Titulo": "Modelar en 3D peluche de zoneja",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Modelar en 3D peluche de fnaf",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Modelar en 3D peluche de tarqui",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
     "Titulo": "Modelar en 3D peluche pony aguila",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench."
   },
   {
@@ -206,23 +186,13 @@
   },
   {
     "Titulo": "Agregar los peluches como trofeos como intercambio con aldeanos custom",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Una sección de la economía del servidor serán los peluches. Por el momento, los miembros del staff actuales para definir su uso."
   },
   {
     "Titulo": "Programar entidades para colocar peluches",
     "Estado": "Concepto",
     "Descripcion": "Crear comandos para generar item frames invisibles donde se exhibirán los peluches."
-  },
-  {
-    "Titulo": "Redactar guion sobre uso de cabezas custom",
-    "Estado": "En Progreso",
-    "Descripcion": "Escribir el paso a paso de cómo obtener y colocar cabezas."
-  },
-  {
-    "Titulo": "Grabar y editar video tutorial cabezas custom",
-    "Estado": "En Progreso",
-    "Descripcion": "Capturar pantalla en el servidor mostrando el proceso redactado."
   },
   {
     "Titulo": "Delimitar y planificar zona para estadio Pokemon",
@@ -301,7 +271,7 @@
   },
   {
     "Titulo": "Planificar alcance de bromas para Dia de Inocentes",
-    "Estado": "Planeado",
+    "Estado": "Concepto",
     "Descripcion": "Definir por escrito que acciones tomara el usuario Kitty en el evento."
   },
   {
