@@ -1,1 +1,312 @@
-[]
+[
+  {
+    "Name": "TT20 (TPS Fixer)",
+    "Desc": "TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/YS3ZignI/f8056e4ce6ac00a50c431eac915509d14a0e90b4.png",
+    "Url": "TT20 (TPS Fixer)",
+    "Id": "YS3ZignI",
+    "Contenido": "Mod",
+    "Categoria": "NO"
+  },
+  {
+    "Name": "Armor Stands",
+    "Desc": "Place, pose, and dress armor stands with an easy-to-use UI.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/FlC9CXUY/30c6137783e10902e64fe801bd3bae9f46af0177.png",
+    "Url": "Armor Stands",
+    "Id": "FlC9CXUY",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Async",
+    "Desc": "Async improves entity performance by processing entities in parallel across multiple CPU cores and threads.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/vEC2jm6I/2451de0c90ed9aabcc776850d34d149c41a6e557_96.webp",
+    "Url": "Async",
+    "Id": "vEC2jm6I",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "BlueMap Marker Manager",
+    "Desc": "BlueMap extension - Add a marker command to easily setup your markers & marker sets ingame without touching any configs",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/a8UoyV2h/00fd83f0902ed7cee49292b9714646363683a7a0_96.webp",
+    "Url": "BlueMap Marker Manager",
+    "Id": "a8UoyV2h",
+    "Contenido": "Plugin",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "BlueMap Sign Markers",
+    "Desc": "A Fabric plugin for BlueMap that creates markers from signs",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/i5ZtmNIW/ef68e9ff2a3813a04541a96011f6b7004fb8f496_96.webp",
+    "Url": "BlueMap Sign Markers",
+    "Id": "i5ZtmNIW",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "CustomNameTags",
+    "Desc": "This mod provides you with a way to customize your player's name tags completely server-side with no need for any client mods.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/TizFPouK/1cd797811df543cadab3563ac46b012608a29dd8_96.webp",
+    "Url": "CustomNameTags",
+    "Id": "TizFPouK",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "EasyAuth",
+    "Desc": "Authentication mod for Fabric servers",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/aZj58GfX/6943fb21c56d19e5ce7e12ebdff6ec3e7f1e8e4b_96.webp",
+    "Url": "EasyAuth",
+    "Id": "aZj58GfX",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "EssentialAddons",
+    "Desc": "A Carpet Extension that provides many useful gameplay features as well as useful creative tools many ported from the Essentials plugin.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/3WQaouc1/4e6a687e0d2396260e12ba94fca5150bc61ef18d_96.webp",
+    "Url": "EssentialAddons",
+    "Id": "3WQaouc1",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "FabricProxy-Lite",
+    "Desc": "Fabric mod for support forward player data from velocity",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/8dI2tmqs/a2ad5fcbee9693cf44807248d82e6fc6c6fca4fb_96.webp",
+    "Url": "FabricProxy-Lite",
+    "Id": "8dI2tmqs",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Fast Backups",
+    "Desc": "Fast, incremental world backups powered by Git.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/ZHKrK8Rp/a7e5015060e1715be5bdfc19953749a657ed7b9c_96.webp",
+    "Url": "Fast Backups",
+    "Id": "ZHKrK8Rp",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "filament",
+    "Desc": "Data driven Items, Blocks, Decorations and Mobs for Fabric based servers.\nNo client mods required!",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/yANxwqSX/a208f243dde7cc8541aff339c234953ab234d9fd.png",
+    "Url": "filament",
+    "Id": "yANxwqSX",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "FSit",
+    "Desc": "Sit anywhere!",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/J5NAzRqK/43f9b135ef9ab49a67da667caa8b5987e1d5d864.png",
+    "Url": "FSit",
+    "Id": "J5NAzRqK",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Head Index",
+    "Desc": "An easy to use, server-side head database mod for the Fabric Loader.",
+    "Type": "CREATIVO",
+    "Icon": "https://cdn.modrinth.com/data/mEPmyd7J/5f90c87b4a2d3f5c673f67215e4b7a10aa184f38_96.webp",
+    "Url": "Head Index",
+    "Id": "mEPmyd7J",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "HuskHomes",
+    "Desc": "The powerful & intuitive set homes, warps, and teleports plugin/mod",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/J6U9o3JG/55b11f564d93a8182036d60004dcc3206fbef016_96.webp",
+    "Url": "HuskHomes",
+    "Id": "J6U9o3JG",
+    "Contenido": "Plugin",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Mc2Discord",
+    "Desc": "Link your Minecraft server chat with your Discord (integration, bridge)",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/Cfbcv7uF/4892ca70b4bd2d109db278970a209abbb2cc6972_96.webp",
+    "Url": "Mc2Discord",
+    "Id": "Cfbcv7uF",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Minecord (for Discord)",
+    "Desc": "Bring your Minecraft world into your Discord guild",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/DoVQa3oa/279f1841825e264a395be505edde32557a5cd8bf_96.webp",
+    "Url": "Minecord (for Discord)",
+    "Id": "DoVQa3oa",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "OtterLib",
+    "Desc": "A cool new simple library mod that everyone can use!",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/zVVpzurY/98184fe23504496333c1e58b6ed401a81b1da797_96.webp",
+    "Url": "OtterLib",
+    "Id": "zVVpzurY",
+    "Contenido": "Plugin",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Pl3xMap",
+    "Desc": "Pl3xMap is a minimalistic and lightweight world map viewer for Minecraft servers using the vanilla Minecraft rendering style",
+    "Type": "CREATIVO",
+    "Icon": "https://cdn.modrinth.com/data/34T8oVNY/97d50559261b4ef4663cf0433346cb93462fabbb.jpeg",
+    "Url": "Pl3xMap",
+    "Id": "34T8oVNY",
+    "Contenido": "Plugin",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Server-Side Waystones",
+    "Desc": "Polymer-based server sided Waystone mod, with Geyser and vanilla client support.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/BzV6ulv0/c937323df30f5e45a2400e6a92018d8f91c7832f_96.webp",
+    "Url": "Server-Side Waystones",
+    "Id": "BzV6ulv0",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "ServerTraders",
+    "Desc": "Adds server-controlled traders, which read their trades from config files and can update on the fly.",
+    "Type": "CREATIVO",
+    "Icon": "https://cdn.modrinth.com/data/9aBRCyM9/d72f6eee2679663fac986ba2684731123a0ca3bd.png",
+    "Url": "ServerTraders",
+    "Id": "9aBRCyM9",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Sit!",
+    "Desc": "Adds sitting to minecraft! Make any block a chair with endless customizability for hand restrictions and sittable blocks.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/EsYqsGV4/71461cf2b1d553f5d7217e1cabf03bf4e1e350f4.png",
+    "Url": "Sit!",
+    "Id": "EsYqsGV4",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "skin overrides",
+    "Desc": "a powerful mod for changing skins and capes!",
+    "Type": "CREATIVO",
+    "Icon": "https://cdn.modrinth.com/data/GON0Fdk5/d3e77b37bc0c2dfa37d8adb54412c2fa1e874de1.png",
+    "Url": "skin overrides",
+    "Id": "GON0Fdk5",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Trusted Travels",
+    "Desc": "Server mod/plugin where you can easily travel to other servers. It uses Mojangs new transfer packet.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/JSz2okz8/b8187080c8ee3ccd4229a937128115fc1c7f89f2_96.webp",
+    "Url": "Trusted Travels",
+    "Id": "JSz2okz8",
+    "Contenido": "Plugin",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "ViaFabric",
+    "Desc": "Allows to connect to older servers with older versions",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/YlKdE5VK/icon.png",
+    "Url": "ViaFabric",
+    "Id": "YlKdE5VK",
+    "Contenido": "Mod",
+    "Categoria": "RETIRADO"
+  },
+  {
+    "Name": "Alternative Authentication",
+    "Desc": "Use third-party authentication servers, like Ely.by, on your server without interfering with Mojang authentication",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/iF6szt3y/bbdbd892ed1d6b20a66285b8a62f554ce73814bf_96.webp",
+    "Url": "Alternative Authentication",
+    "Id": "iF6szt3y",
+    "Contenido": "Mod",
+    "Categoria": "SI"
+  },
+  {
+    "Name": "BlueMap",
+    "Desc": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.",
+    "Type": "SURVIVAL",
+    "Icon": "https://cdn.modrinth.com/data/swbUV1cr/b9a17ab8c850046101a47e62037225c9b007a2ca_96.webp",
+    "Url": "BlueMap",
+    "Id": "swbUV1cr",
+    "Contenido": "Plugin",
+    "Categoria": "SI"
+  },
+  {
+    "Name": "Fabric API",
+    "Desc": "Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+    "Url": "Fabric API",
+    "Id": "P7dR8mSH",
+    "Contenido": "Mod",
+    "Categoria": "SI"
+  },
+  {
+    "Name": "Ledger",
+    "Desc": "A serverside logging mod",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/LVN9ygNV/919c0c39af397c4e62b6980018e31e9f763bf6d5_96.webp",
+    "Url": "Ledger",
+    "Id": "LVN9ygNV",
+    "Contenido": "Mod",
+    "Categoria": "SI"
+  },
+  {
+    "Name": "No Chat Reports",
+    "Desc": "Makes chat unreportable (where possible)",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/qQyHxfxd/icon.png",
+    "Url": "No Chat Reports",
+    "Id": "qQyHxfxd",
+    "Contenido": "Mod",
+    "Categoria": "SI"
+  },
+  {
+    "Name": "Floodgate",
+    "Desc": "Hybrid mode mod to allow for connections from Geyser to join online mode servers.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/bWrNNfkb/851eeb9b5daf37baaebe7e8f25e8437735897c9c_96.webp",
+    "Url": "Floodgate",
+    "Id": "bWrNNfkb",
+    "Contenido": "Mod",
+    "Categoria": "TESTEO"
+  },
+  {
+    "Name": "Geyser",
+    "Desc": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/wKkoqHrH/6e8e781d5669ecef9e19a73b5c2eed060d6f73e7_96.webp",
+    "Url": "Geyser",
+    "Id": "wKkoqHrH",
+    "Contenido": "Plugin",
+    "Categoria": "TESTEO"
+  }
+]
