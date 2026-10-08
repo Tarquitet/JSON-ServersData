@@ -30,11 +30,199 @@
           "items": [
             {
               "code": "1.2.a",
-              "text": "**18+, NSFW or sexual content** Includes buildings, messages, skins and profile pictures."
+              "text": "**Content 18+, NSFW, or sexual = immediate expulsion.** Includes buildings, messages, skins, and profile pictures."
             },
             {
               "code": "1.2.b",
-              "text": "Any sexual advance towards minors is grounds for expulsion and reporting to the appropriate authorities."
+              "text": "Any sexual advances towards minors (grooming) = expulsion and report to the appropriate authorities."
+            },
+            {
+              "code": "1.2.c",
+              "text": "Do not share or ask for personal information from minors (real age, location, private networks)."
+            },
+            {
+              "code": "1.2.d",
+              "text": "Protection is based on age, not perceived maturity. A mature minor gains trust and responsibilities, never exemption from protection."
+            }
+          ]
+        },
+        {
+          "num": "1.3",
+          "title": "Inappropriate symbols and content",
+          "severity": "grave",
+          "sub": "In buildings, skins, banners, and profiles.",
+          "items": [
+            {
+              "code": "1.3.a",
+              "text": "**Prohibited:** political flags, ideologies, controversial symbols (swastikas, hate symbols), gore, violent and offensive content."
+            },
+            {
+              "code": "1.3.b",
+              "text": "**Permitted historical buildings:** Castles, Taj Mahal, monuments, provided they do not include offensive symbols."
+            },
+            {
+              "code": "1.3.c",
+              "text": "This applies equally to Minecraft (buildings, skins, capes, signs) and to Discord (photo, banner, name, bio)."
+            },
+            {
+              "code": "1.3.d",
+              "text": "If the staff asks you to change a symbol, skin, or profile, you change it. It's not censorship: it's about community."
+            },
+            {
+              "code": "1.3.e",
+              "text": "Threatening to leave to avoid a rule doesn't excuse you from following it. The door is wide open, but the rules apply while you're inside."
+            }
+          ]
+        },
+        {
+          "num": "1.4",
+          "title": "Chat and communication",
+          "severity": "grave",
+          "sub": "Same rules across all channels.",
+          "items": [
+            {
+              "code": "1.4.a",
+              "text": "The rules also apply to private messages. Insults via DM are still punishable."
+            },
+            {
+              "code": "1.4.b",
+              "text": "Do not spam links to third-party servers or flood (send repetitive messages)."
+            },
+            {
+              "code": "1.4.c",
+              "text": "Do not overuse capital letters or repeatedly mention the Staff without a real emergency."
+            },
+            {
+              "code": "1.4.d",
+              "text": "Participating in raids against the community = permanent expulsion and IP ban."
+            }
+          ]
+        },
+        {
+          "num": "1.5",
+          "title": "If you use Discord",
+          "severity": "leve",
+          "sub": "Discord is optional support, not mandatory. But if you are using it, apply this.",
+          "items": [
+            {
+              "code": "1.5.a",
+              "text": "Read the name and description of each channel before writing. Do not enter voice or chat channels to disrupt others."
+            },
+            {
+              "code": "1.5.b",
+              "text": "Discord's Terms and Conditions apply to the entire community."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Updates",
+      "icon": "🔄",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "10.1",
+          "title": "Updates policy",
+          "severity": "leve",
+          "sub": "Stability before novelty.",
+          "items": [
+            {
+              "code": "10.1.a",
+              "text": "When a new version of Minecraft is released, we wait 1-2 weeks to verify mod/datapack compatibility."
+            },
+            {
+              "code": "10.1.b",
+              "text": "Mods or datapacks with no real utility may be removed without prior notice."
+            }
+          ]
+        },
+        {
+          "num": "10.2",
+          "title": "Mod proposals",
+          "severity": "leve",
+          "sub": "Your idea can be submitted to the server.",
+          "items": [
+            {
+              "code": "10.2.a",
+              "text": "Suggest mods/datapacks with real utility per ticket. We evaluate whether to add them."
+            },
+            {
+              "code": "10.2.b",
+              "text": "The updated official list is on the wiki."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Common sense",
+      "icon": "📄",
+      "scope": "ambos",
+      "rules": [
+        {
+          "num": "11.1",
+          "title": "Common sense",
+          "severity": "leve",
+          "sub": "Use your head.",
+          "items": [
+            {
+              "code": "11.1.a",
+              "text": "If you're unsure whether something is allowed, ask before doing it."
+            },
+            {
+              "code": "11.1.b",
+              "text": "The staff has the final say in situations not covered by these rules."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Events",
+      "icon": "🎉",
+      "scope": "ambos",
+      "rules": [
+        {
+          "num": "12.1",
+          "title": "Community events",
+          "severity": "leve",
+          "sub": "Optional participation.",
+          "items": [
+            {
+              "code": "12.1.a",
+              "text": "Events are announced on Discord. Participation is voluntary."
+            },
+            {
+              "code": "12.1.b",
+              "text": "Respect the event rules. Breaking them will result in disqualification and possible sanctions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Inactive Players",
+      "icon": "💤",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "13.1",
+          "title": "#VALUE!",
+          "severity": "leve",
+          "sub": "We take care of the active space.",
+          "items": [
+            {
+              "code": "13.1.a",
+              "text": "After 60 days of inactivity, your area may be released for new players."
+            },
+            {
+              "code": "13.1.b",
+              "text": "If you're going to be inactive, let the staff know to keep your whitelist."
             }
           ]
         }
@@ -59,6 +247,518 @@
             {
               "code": "2.1.b",
               "text": "**Daily Restart:** Once a day, the device automatically restarts to clear RAM. A few minutes of inactivity is normal."
+            },
+            {
+              "code": "2.1.c",
+              "text": "The staff may take the server offline for scheduled maintenance. We will announce this on Discord when possible."
+            }
+          ]
+        },
+        {
+          "num": "2.2",
+          "title": "Shared performance",
+          "severity": "leve",
+          "sub": "Make sure the server runs smoothly for everyone.",
+          "items": [
+            {
+              "code": "2.2.a",
+              "text": "Report lag by ticket with coordinates. This helps us identify problem areas."
+            },
+            {
+              "code": "2.2.b",
+              "text": "Avoid accumulating entities without a purpose (hundreds of animals, infinite villagers)."
+            },
+            {
+              "code": "2.2.c",
+              "text": "Do not leave permanently active redstone that you are not using."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Accounts, Access and Appeals",
+      "icon": "📄",
+      "scope": "ambos",
+      "rules": [
+        {
+          "num": "3.1",
+          "title": "Authentication",
+          "severity": "expulsion",
+          "sub": "Whitelist + Ely.by/Mojang.",
+          "items": [
+            {
+              "code": "3.1.a",
+              "text": "Premium (Mojang): You enter via an approved whitelist on Discord."
+            },
+            {
+              "code": "3.1.b",
+              "text": "Non-Premium: You must use an Ely.by account with a compatible launcher (ElyPrism or XMCL)."
+            },
+            {
+              "code": "3.1.c",
+              "text": "Improper skins or skins that violate rules = sanction, whether Mojang or Ely.by."
+            }
+          ]
+        },
+        {
+          "num": "3.2",
+          "title": "Your account, your responsibility",
+          "severity": "grave",
+          "sub": "There are no excuses.",
+          "items": [
+            {
+              "code": "3.2.a",
+              "text": "If a friend, family member, or stranger logs in with your account and breaks the rules, the penalty will be applied to your account."
+            },
+            {
+              "code": "3.2.b",
+              "text": "Keep your password secure. Staff will not waive penalties for security lapses."
+            },
+            {
+              "code": "3.2.c",
+              "text": "**Impersonating a staff member will result in immediate expulsion.** No one on the team will ask for your password."
+            }
+          ]
+        },
+        {
+          "num": "3.3",
+          "title": "Multiple accounts and appeals",
+          "severity": "expulsion",
+          "sub": "There is no escape.",
+          "items": [
+            {
+              "code": "3.3.a",
+              "text": "Attempting to evade a temporary ban with multiple accounts = permanent Discord ban and IP ban from the server."
+            },
+            {
+              "code": "3.3.b",
+              "text": "Alternative accounts are only allowed after explicit authorization from the Staff (e.g., lost password)."
+            },
+            {
+              "code": "3.3.c",
+              "text": "Anyone who has been banned can submit an appeal via ticket. The final decision rests with the staff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Constructions and Space",
+      "icon": "🏗️",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "4.1",
+          "title": "Other people's constructions",
+          "severity": "expulsion",
+          "sub": "We have logs for each block.",
+          "items": [
+            {
+              "code": "4.1.a",
+              "text": "Destroying or altering other people's constructions without permission = review of events and possible expulsion."
+            },
+            {
+              "code": "4.1.b",
+              "text": "Taking items from other people's chests (even if they are unprotected) is a serious breach of honesty."
+            },
+            {
+              "code": "4.1.c",
+              "text": "If it was you: cooperate in the reconstruction. Refusal will increase the penalty."
+            }
+          ]
+        },
+        {
+          "num": "4.2",
+          "title": "Portals and paths",
+          "severity": "leve",
+          "sub": "Order and respect in transportation.",
+          "items": [
+            {
+              "code": "4.2.a",
+              "text": "Your gate obstructs another base and doesn't have a sign with your name = the owner can remove it."
+            },
+            {
+              "code": "4.2.b",
+              "text": "Recommended: sign with coordinates or owner's name on each doorway."
+            },
+            {
+              "code": "4.2.c",
+              "text": "Accidental portal synchronization (by nearby chunks) is analyzed on a case-by-case basis."
+            }
+          ]
+        },
+        {
+          "num": "4.3",
+          "title": "Abandonment and inactivity",
+          "severity": "leve",
+          "sub": "We take care of the space for active players.",
+          "items": [
+            {
+              "code": "4.3.a",
+              "text": "If you're going to be inactive for a long time, please notify the staff. Your whitelist status will remain."
+            },
+            {
+              "code": "4.3.b",
+              "text": "After prolonged abandonment without notice, the Staff may release the area (with prior notice if possible)."
+            },
+            {
+              "code": "4.3.c",
+              "text": "Abandoned shops in commercial areas can be removed after 21 days of inactivity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Fair Play",
+      "icon": "⚔️",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "5.1",
+          "title": "Hacks and X-Ray",
+          "severity": "expulsion",
+          "sub": "Permanent ban, no exceptions.",
+          "items": [
+            {
+              "code": "5.1.a",
+              "text": "**X-Ray = permanent ban.** Includes mods, resource packs, lava transparency, or using the seed to find minerals."
+            },
+            {
+              "code": "5.1.b",
+              "text": "Any mod that gives an unfair advantage (fly, reach, killaura, ESP, tracers) is prohibited."
+            },
+            {
+              "code": "5.1.c",
+              "text": "Using the seed to find structures (including copper/iron veins) is also considered X-Ray."
+            }
+          ]
+        },
+        {
+          "num": "5.2",
+          "title": "Automation",
+          "severity": "expulsion",
+          "sub": "Don't play for yourself.",
+          "items": [
+            {
+              "code": "5.2.a",
+              "text": "Prohibited: autoclickers, auto-mining, auto-attack, auto-eating, auto-replanting, macros."
+            },
+            {
+              "code": "5.2.b",
+              "text": "Authorized fake players (`/player`) are the only controlled exception."
+            },
+            {
+              "code": "5.2.c",
+              "text": "Exploiting vanilla bugs or plugins for an unfair advantage will result in penalties. Report bugs, don't exploit them."
+            }
+          ]
+        },
+        {
+          "num": "5.3",
+          "title": "PvP and combat",
+          "severity": "grave",
+          "sub": "Only with consent.",
+          "items": [
+            {
+              "code": "5.3.a",
+              "text": "PvP is only allowed if both players consent. Return the items to the player who died."
+            },
+            {
+              "code": "5.3.b",
+              "text": "Don't spam kills against the same player. Give them time to disable PvP."
+            },
+            {
+              "code": "5.3.c",
+              "text": "Do not attack staff while they are performing their duties."
+            }
+          ]
+        },
+        {
+          "num": "5.4",
+          "title": "Gambling",
+          "severity": "grave",
+          "sub": "No betting.",
+          "items": [
+            {
+              "code": "5.4.a",
+              "text": "Machines based on chance (roulette, slots, betting) are prohibited."
+            },
+            {
+              "code": "5.4.b",
+              "text": "Skill-based machines are allowed (target shooting, racing)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Performance and Entities",
+      "icon": "⚙️",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "6.1",
+          "title": "Farms and entities",
+          "severity": "leve",
+          "sub": "The world is big, be responsible.",
+          "items": [
+            {
+              "code": "6.1.a",
+              "text": "No limits on farms, but limits animals and unnecessary redstone."
+            },
+            {
+              "code": "6.1.b",
+              "text": "**Chunk loaders only when absolutely necessary.** Not for keeping farms running 24/7."
+            },
+            {
+              "code": "6.1.c",
+              "text": "Contraptions TNT \"lazy chunk\" (like some mining machines) are not allowed."
+            }
+          ]
+        },
+        {
+          "num": "6.2",
+          "title": "Allowed mods",
+          "severity": "leve",
+          "sub": "Check before installing.",
+          "items": [
+            {
+              "code": "6.2.a",
+              "text": "Full list of allowed and prohibited mods on the wiki."
+            },
+            {
+              "code": "6.2.b",
+              "text": "If you're unsure about a mod, ask for a ticket before using it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Jokes and Artistic Content",
+      "icon": "🎨",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "7.1",
+          "title": "Jokes allowed",
+          "severity": "leve",
+          "sub": "The fun ends when you bother people.",
+          "items": [
+            {
+              "code": "7.1.a",
+              "text": "Only with trusted friends. If you don't know how they'll react, don't do it."
+            },
+            {
+              "code": "7.1.b",
+              "text": "Obligated to restore the damage if the affected party requests it."
+            },
+            {
+              "code": "7.1.c",
+              "text": "The use of fire, TNT, lava, or high-value objects in pranks is prohibited."
+            }
+          ]
+        },
+        {
+          "num": "7.2",
+          "title": "Art and thought-provoking content",
+          "severity": "grave",
+          "sub": "Freedom with limits.",
+          "items": [
+            {
+              "code": "7.2.a",
+              "text": "Maximum 2 suggestive works per player."
+            },
+            {
+              "code": "7.2.b",
+              "text": "Only in private areas (basements, bedrooms). Displaying them in public will result in a fine."
+            },
+            {
+              "code": "7.2.c",
+              "text": "If someone sees your content because you didn't protect it, the responsibility is yours."
+            },
+            {
+              "code": "7.2.d",
+              "text": "The staff has the final say on what is art and what is prohibited. No arguments will be accepted."
+            }
+          ]
+        },
+        {
+          "num": "7.3",
+          "title": "Symbols and messages",
+          "severity": "grave",
+          "sub": "Keep the tone.",
+          "items": [
+            {
+              "code": "7.3.a",
+              "text": "Do not create offensive symbols or disturbing messages."
+            },
+            {
+              "code": "7.3.b",
+              "text": "Inappropriate content publicly visible = mandatory removal and penalty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Trading and Scams",
+      "icon": "📄",
+      "scope": "ambos",
+      "rules": [
+        {
+          "num": "8.1",
+          "title": "Server-based trading",
+          "severity": "leve",
+          "sub": "Between players = free.",
+          "items": [
+            {
+              "code": "8.1.a",
+              "text": "Free exchange of items between players within the server."
+            },
+            {
+              "code": "8.1.b",
+              "text": "Shops with clearly marked signs are welcome."
+            }
+          ]
+        },
+        {
+          "num": "8.2",
+          "title": "Scams and real money",
+          "severity": "expulsion",
+          "sub": "Red line.",
+          "items": [
+            {
+              "code": "8.2.a",
+              "text": "**Selling items, accounts, or services for real money (PayPal, crypto, etc.) is prohibited. This will result in immediate expulsion."
+            },
+            {
+              "code": "8.2.b",
+              "text": "Defrauding other players (promising something and not delivering) = penalty according to severity."
+            },
+            {
+              "code": "8.2.c",
+              "text": "Do not use the server to promote external sales or personal business."
+            }
+          ]
+        },
+        {
+          "num": "8.3",
+          "title": "Unfair competition",
+          "severity": "leve",
+          "sub": "In commercial areas.",
+          "items": [
+            {
+              "code": "8.3.a",
+              "text": "Do not copy designs from other stores to deliberately undercut prices."
+            },
+            {
+              "code": "8.3.b",
+              "text": "Respect the server's economy: do not artificially inflate prices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Staff and Sanctions",
+      "icon": "🛡️",
+      "scope": "ambos",
+      "rules": [
+        {
+          "num": "9.1",
+          "title": "Dealing with Staff",
+          "severity": "grave",
+          "sub": "We are volunteers, not employees.",
+          "items": [
+            {
+              "code": "9.1.a",
+              "text": "Please be patient with responses. We don't demand immediate attention: we work, study, and rest."
+            },
+            {
+              "code": "9.1.b",
+              "text": "Repeated mentions of Staff without a real emergency = temporary mute."
+            },
+            {
+              "code": "9.1.c",
+              "text": "Insulting or belittling a team member = withdrawal of access."
+            }
+          ]
+        },
+        {
+          "num": "9.2",
+          "title": "Errors and appeals",
+          "severity": "leve",
+          "sub": "We are human.",
+          "items": [
+            {
+              "code": "9.2.a",
+              "text": "If an admin makes a mistake, please report it calmly and respectfully via ticket. It will be investigated."
+            },
+            {
+              "code": "9.2.b",
+              "text": "Anyone who has been banned can appeal by submitting a ticket. The final decision rests with the staff."
+            }
+          ]
+        },
+        {
+          "num": "9.3",
+          "title": "Sanctions system",
+          "severity": "leve",
+          "sub": "Visible severities.",
+          "items": [
+            {
+              "code": "9.3.a",
+              "text": "**Minor:** Warning or temporary mute. Minor offenses or first offenses."
+            },
+            {
+              "code": "9.3.b",
+              "text": "**Serious:** Temporary ban. Recurring or medium-impact offenses."
+            },
+            {
+              "code": "9.3.c",
+              "text": "**Expulsion:** Permanent ban. Serious offenses (X-Ray, fraud, evasion, impersonation)."
+            },
+            {
+              "code": "9.3.d",
+              "text": "The staff evaluates context, intent, harm, and recidivism to make a decision."
+            }
+          ]
+        },
+        {
+          "num": "9.4",
+          "title": "Discord Roles",
+          "severity": "leve",
+          "sub": "They are not requested.",
+          "items": [
+            {
+              "code": "9.4.a",
+              "text": "Don't ask for roles. They are only given when the staff needs a new member."
+            }
+          ]
+        },
+        {
+          "num": "9.5",
+          "title": "Consistent application",
+          "severity": "grave",
+          "sub": "A tolerated norm loses authority.",
+          "items": [
+            {
+              "code": "9.5.a",
+              "text": "The staff applies the rules equally to everyone. If they decide that something should no longer be the rule, they first change the rule and then apply it."
+            },
+            {
+              "code": "9.5.b",
+              "text": "Turning a blind eye is also a choice: the staff is responsible for what they tolerate in spaces where there are minors."
             }
           ]
         }
