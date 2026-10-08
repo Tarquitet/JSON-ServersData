@@ -105,59 +105,6 @@
       ]
     },
     {
-      "id": "10",
-      "title": "Updates",
-      "icon": "🔄",
-      "rules": [
-        {
-          "num": "10.1",
-          "items": [
-            {
-              "code": "10.1.a",
-              "text": "When a new version of Minecraft is released, we wait 1-2 weeks to verify mod/datapack compatibility."
-            },
-            {
-              "code": "10.1.b",
-              "text": "Mods or datapacks with no real utility may be removed without prior notice."
-            }
-          ]
-        },
-        {
-          "num": "10.2",
-          "items": [
-            {
-              "code": "10.2.a",
-              "text": "Suggest mods/datapacks with real utility per ticket. We evaluate whether to add them."
-            },
-            {
-              "code": "10.2.b",
-              "text": "The updated official list is on the website."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Common sense",
-      "icon": "🧠",
-      "rules": [
-        {
-          "num": "11.1",
-          "items": [
-            {
-              "code": "11.1.a",
-              "text": "If you're unsure whether something is allowed, ask before doing it."
-            },
-            {
-              "code": "11.1.b",
-              "text": "The staff has the final say in situations not covered by these rules."
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2",
       "title": "Server and Availability",
       "icon": "💻",
@@ -605,6 +552,59 @@
             {
               "code": "9.5.b",
               "text": "Turning a blind eye is also a choice: the staff is responsible for what they tolerate in spaces where there are minors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Updates",
+      "icon": "🔄",
+      "rules": [
+        {
+          "num": "10.1",
+          "items": [
+            {
+              "code": "10.1.a",
+              "text": "When a new version of Minecraft is released, we wait 1-2 weeks to verify mod/datapack compatibility."
+            },
+            {
+              "code": "10.1.b",
+              "text": "Mods or datapacks with no real utility may be removed without prior notice."
+            }
+          ]
+        },
+        {
+          "num": "10.2",
+          "items": [
+            {
+              "code": "10.2.a",
+              "text": "Suggest mods/datapacks with real utility per ticket. We evaluate whether to add them."
+            },
+            {
+              "code": "10.2.b",
+              "text": "The updated official list is on the website."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Common sense",
+      "icon": "🧠",
+      "rules": [
+        {
+          "num": "11.1",
+          "items": [
+            {
+              "code": "11.1.a",
+              "text": "If you're unsure whether something is allowed, ask before doing it."
+            },
+            {
+              "code": "11.1.b",
+              "text": "The staff has the final say in situations not covered by these rules."
             }
           ]
         }
