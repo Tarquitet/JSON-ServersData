@@ -105,59 +105,6 @@
       ]
     },
     {
-      "id": "10",
-      "title": "Actualizaciones",
-      "icon": "🔄",
-      "rules": [
-        {
-          "num": "10.1",
-          "items": [
-            {
-              "code": "10.1.a",
-              "text": "Al salir nueva versión de Minecraft, esperamos 1-2 semanas para verificar compatibilidad de mods/datapacks."
-            },
-            {
-              "code": "10.1.b",
-              "text": "Mods o datapacks sin utilidad real pueden retirarse sin aviso previo."
-            }
-          ]
-        },
-        {
-          "num": "10.2",
-          "items": [
-            {
-              "code": "10.2.a",
-              "text": "Propón mods/datapacks con utilidad real por ticket. Evaluamos si se agregan."
-            },
-            {
-              "code": "10.2.b",
-              "text": "La lista oficial actualizada está en la web."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Sentido Común",
-      "icon": "🧠",
-      "rules": [
-        {
-          "num": "11.1",
-          "items": [
-            {
-              "code": "11.1.a",
-              "text": "Si no estás seguro de si algo está permitido, pregunta antes de hacerlo."
-            },
-            {
-              "code": "11.1.b",
-              "text": "El Staff tiene la última palabra en situaciones no cubiertas por estas normas."
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2",
       "title": "Servidor y Disponibilidad",
       "icon": "💻",
@@ -605,6 +552,59 @@
             {
               "code": "9.5.b",
               "text": "Hacer la vista gorda también es una decisión: el Staff responde por lo que tolera en espacios donde hay menores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Actualizaciones",
+      "icon": "🔄",
+      "rules": [
+        {
+          "num": "10.1",
+          "items": [
+            {
+              "code": "10.1.a",
+              "text": "Al salir nueva versión de Minecraft, esperamos 1-2 semanas para verificar compatibilidad de mods/datapacks."
+            },
+            {
+              "code": "10.1.b",
+              "text": "Mods o datapacks sin utilidad real pueden retirarse sin aviso previo."
+            }
+          ]
+        },
+        {
+          "num": "10.2",
+          "items": [
+            {
+              "code": "10.2.a",
+              "text": "Propón mods/datapacks con utilidad real por ticket. Evaluamos si se agregan."
+            },
+            {
+              "code": "10.2.b",
+              "text": "La lista oficial actualizada está en la web."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Sentido Común",
+      "icon": "🧠",
+      "rules": [
+        {
+          "num": "11.1",
+          "items": [
+            {
+              "code": "11.1.a",
+              "text": "Si no estás seguro de si algo está permitido, pregunta antes de hacerlo."
+            },
+            {
+              "code": "11.1.b",
+              "text": "El Staff tiene la última palabra en situaciones no cubiertas por estas normas."
             }
           ]
         }
