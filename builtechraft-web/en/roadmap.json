@@ -1,68 +1,5 @@
 [
   {
-    "Titulo": "Communicate the new approach to the community",
-    "Descripcion": "Inform players about the BTC target change.",
-    "Detalles": "Publish the manifesto on the appropriate announcements channel.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Adapting datapacks to the new approach",
-    "Descripcion": "Review and modify existing systems to support construction.",
-    "Detalles": "Adjusting rewards or mechanics that were previously purely technical.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Draft new rules",
-    "Descripcion": "Write the updated rules based on the new objective.",
-    "Detalles": "Ensure that they cover the new systems of coexistence and construction.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI, AGUILA"
-  },
-  {
-    "Titulo": "Publish updated rules on Discord",
-    "Descripcion": "Replace the old text with the new rules.",
-    "Detalles": "Notify all users so they can read and accept them.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI, AGUILA"
-  },
-  {
-    "Titulo": "Clean up inactive roles on Discord",
-    "Descripcion": "Remove roles that are no longer in use or are obsolete.",
-    "Detalles": "Prepare the ground for the new hierarchy.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI, AGUILA"
-  },
-  {
-    "Titulo": "Configure Channels and Roles section",
-    "Descripcion": "Improve automatic role selection for new users.",
-    "Detalles": "Make the Discord interface cleaner and more intuitive.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Define hierarchical role tree",
-    "Descripcion": "Establish the levels of authority (Owner, Admin, Mod).",
-    "Detalles": "Document what exact permissions each level will have.",
-    "Estado": "Filled",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Assigning hierarchies and colors in Discord",
-    "Descripcion": "Visually apply the hierarchical tree to the server configuration.",
-    "Detalles": "Ensure that the highest roles are displayed first in the list.",
-    "Estado": "Filled",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Configure node for test server",
-    "Descripcion": "Prepare the separate server instance for testing.",
-    "Detalles": "Load a flat world or a copy of the main one. It won't be available 24/7.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI"
-  },
-  {
     "Titulo": "Create base scoreboards for in-game roles",
     "Descripcion": "Configure the game's internal database for ranks.",
     "Detalles": "Create the 'teams' corresponding to the Discord roles.",
@@ -315,7 +252,7 @@
     "Encargados": "-, TARQUI"
   },
   {
-    "Titulo": "Link plush toy models with CMD",
+    "Titulo": "Linking plush toy models with CMD",
     "Descripcion": "Assign CustomModelData to a vanilla item so that it loads the 3D models.",
     "Detalles": "Include the four models in the Resource Pack file.",
     "Estado": "Concept",
@@ -333,20 +270,6 @@
     "Descripcion": "Create commands to generate invisible item frames where the plush toys will be displayed.",
     "Detalles": "Ensure that players can purchase and place these items.",
     "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Write a script about the use of custom heads",
-    "Descripcion": "Write the step-by-step instructions on how to obtain and place heads.",
-    "Detalles": "Explain the necessary commands and websites.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Record and edit video tutorial custom heads",
-    "Descripcion": "Capture a screenshot on the server showing the written process.",
-    "Detalles": "Publish the video on the Wiki or Discord for the community.",
-    "Estado": "Filled",
     "Encargados": "-, TARQUI"
   },
   {
@@ -467,13 +390,6 @@
     "Detalles": "Test on the test server and remove the code once the event is over.",
     "Estado": "Concept",
     "Encargados": "-, KITTY, TARQUI"
-  },
-  {
-    "Titulo": "Redesign a video game-style BTC website",
-    "Descripcion": "Redesign the website + change the logo and banner",
-    "Detalles": "The server's logo and banner will be redesigned for greater and more unique visual communication.",
-    "Estado": "Filled",
-    "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Mapart 1st BTC logo",
