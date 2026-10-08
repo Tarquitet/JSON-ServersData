@@ -1,5 +1,25 @@
 [
   {
+    "Nombre": "tarquitet",
+    "Rol": "FOUNDER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
+    "Bio": "Founder and lead server architect. Lover of technical detail and extreme optimization.",
+    "Color": "#f97316",
+    "Twitch": "https://www.twitch.tv/tarquitet",
+    "Youtube": "https://youtube.com/@Tarquitet",
+    "Github": "https://github.com/Tarquitet"
+  },
+  {
+    "Nombre": "Aguila003",
+    "Rol": "ADMIN",
+    "Avatar": "https://drive.google.com/thumbnail?id=1e7Pfar_e962pb01XRHoVw5VPUsmA_s-c&sz=w800",
+    "Bio": "In charge of community management. Always willing to help maintain peace and offer good ideas.",
+    "Color": "#ef4444",
+    "Twitch": "https://www.twitch.tv/menuevt",
+    "Youtube": "https://www.youtube.com/@MENUEVT",
+    "Github": ""
+  },
+  {
     "Nombre": "soshy",
     "Rol": "ADMIN",
     "Avatar": "https://drive.google.com/thumbnail?id=13KdAyTlnS0oBYRMOK7f-gakhh4vh6bfV&sz=w800",
@@ -7,36 +27,6 @@
     "Color": "#ef4444",
     "Twitch": "",
     "Youtube": "https://www.youtube.com/@soshyyt2040",
-    "Github": ""
-  },
-  {
-    "Nombre": "AkikoWolf",
-    "Rol": "RETIRED",
-    "Avatar": "https://drive.google.com/thumbnail?id=1UWkKQBRjnpGFUzdevmDlBfGxZqez8JHo&sz=w800",
-    "Bio": "Responsible for logistics and project management",
-    "Color": "#71717a",
-    "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
-    "Nombre": "aliang",
-    "Rol": "BETA TESTER",
-    "Avatar": "https://drive.google.com/thumbnail?id=1AMV9bZfHDCE6du-RBgTRz0bWDoYHkLRw&sz=w800",
-    "Bio": "She was the first user to access the Builtechraft test environment (before KittyCupcake)",
-    "Color": "#0F079C",
-    "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
-    "Nombre": "Dip_UwU",
-    "Rol": "RETIRED",
-    "Avatar": "https://drive.google.com/thumbnail?id=17QvXTGIEECvg-3NToRkSKppB4vYuE_z4&sz=w800",
-    "Bio": "Companion of the retired player JoseJose, he contributed with some farms that are now broken.",
-    "Color": "#71717a",
-    "Twitch": "",
-    "Youtube": "",
     "Github": ""
   },
   {
@@ -60,6 +50,46 @@
     "Github": ""
   },
   {
+    "Nombre": "t7erminatort",
+    "Rol": "VIGILANT",
+    "Avatar": "https://drive.google.com/thumbnail?id=1pMAr8QlGQ3vW7j30g-0T5tX5iyUDW9fX&sz=w800",
+    "Bio": "Companion of Tarquitet who observed the foundations of the server before its creation. A good communicator who seeks a fair balance for all.",
+    "Color": "#3b82f6",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "aliang",
+    "Rol": "BETA TESTER",
+    "Avatar": "https://drive.google.com/thumbnail?id=1AMV9bZfHDCE6du-RBgTRz0bWDoYHkLRw&sz=w800",
+    "Bio": "She was the first user to access the Builtechraft test environment (before KittyCupcake)",
+    "Color": "#0F079C",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "AkikoWolf",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=1UWkKQBRjnpGFUzdevmDlBfGxZqez8JHo&sz=w800",
+    "Bio": "Responsible for logistics and project management",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
+    "Nombre": "Dip_UwU",
+    "Rol": "RETIRED",
+    "Avatar": "https://drive.google.com/thumbnail?id=17QvXTGIEECvg-3NToRkSKppB4vYuE_z4&sz=w800",
+    "Bio": "Companion of the retired player JoseJose, he contributed with some farms that are now broken.",
+    "Color": "#71717a",
+    "Twitch": "",
+    "Youtube": "",
+    "Github": ""
+  },
+  {
     "Nombre": "snowing",
     "Rol": "RETIRED",
     "Avatar": "https://drive.google.com/thumbnail?id=17bFavpjIS8DAglmWa8A6ZL0Rw1_otoX7&sz=w800",
@@ -78,26 +108,6 @@
     "Twitch": "",
     "Youtube": "",
     "Github": ""
-  },
-  {
-    "Nombre": "t7erminatort",
-    "Rol": "VIGILANT",
-    "Avatar": "https://drive.google.com/thumbnail?id=1pMAr8QlGQ3vW7j30g-0T5tX5iyUDW9fX&sz=w800",
-    "Bio": "Companion of Tarquitet who observed the foundations of the server before its creation. A good communicator who seeks a fair balance for all.",
-    "Color": "#3b82f6",
-    "Twitch": "",
-    "Youtube": "",
-    "Github": ""
-  },
-  {
-    "Nombre": "tarquitet",
-    "Rol": "FOUNDER",
-    "Avatar": "https://drive.google.com/thumbnail?id=1f2jUM5P53hvlq_idxCrBQd_yft3CZD4E&sz=w800",
-    "Bio": "Founder and lead server architect. Lover of technical detail and extreme optimization.",
-    "Color": "#f97316",
-    "Twitch": "https://www.twitch.tv/tarquitet",
-    "Youtube": "https://youtube.com/@Tarquitet",
-    "Github": "https://github.com/Tarquitet"
   },
   {
     "Nombre": "UnPocoDeRuch",
