@@ -131,7 +131,7 @@
             },
             {
               "code": "10.2.b",
-              "text": "The updated official list is on the wiki."
+              "text": "The updated official list is on the website."
             }
           ]
         }
@@ -152,46 +152,6 @@
             {
               "code": "11.1.b",
               "text": "The staff has the final say in situations not covered by these rules."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Events",
-      "icon": "🎉",
-      "rules": [
-        {
-          "num": "12.1",
-          "items": [
-            {
-              "code": "12.1.a",
-              "text": "Events are announced on Discord. Participation is voluntary."
-            },
-            {
-              "code": "12.1.b",
-              "text": "Respect the event rules. Breaking them will result in disqualification and possible sanctions."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Inactive Players",
-      "icon": "💤",
-      "rules": [
-        {
-          "num": "13.1",
-          "items": [
-            {
-              "code": "13.1.a",
-              "text": "After 60 days of inactivity, your area may be released for new players."
-            },
-            {
-              "code": "13.1.b",
-              "text": "If you're going to be inactive, let the staff know to keep your whitelist."
             }
           ]
         }
