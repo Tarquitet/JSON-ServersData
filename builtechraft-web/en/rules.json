@@ -9,6 +9,10 @@
           "num": "1.1",
           "items": [
             {
+              "code": "1.1.a",
+              "text": "Discrimination, harassment, insults, and revealing personal information about others (xenophobia, orientation, gender, politics, racism, religion) are not tolerated."
+            },
+            {
               "code": "1.1.b",
               "text": "Avoid foul language, toxicity, and bringing controversies or external news to the server."
             },
