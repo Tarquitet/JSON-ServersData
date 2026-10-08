@@ -4,13 +4,9 @@
       "id": "1",
       "title": "Respeto y Convivencia",
       "icon": "✨",
-      "scope": "ambos",
       "rules": [
         {
           "num": "1.1",
-          "title": "Respeto universal",
-          "severity": "expulsion",
-          "sub": "Dentro y fuera del servidor.",
           "items": [
             {
               "code": "1.1.a",
@@ -28,9 +24,6 @@
         },
         {
           "num": "1.2",
-          "title": "Protección de menores",
-          "severity": "expulsion",
-          "sub": "Este servidor incluye jugadores de todas las edades.",
           "items": [
             {
               "code": "1.2.a",
@@ -52,9 +45,6 @@
         },
         {
           "num": "1.3",
-          "title": "Símbolos y contenido inapropiado",
-          "severity": "grave",
-          "sub": "En construcciones, skins, banners y perfiles.",
           "items": [
             {
               "code": "1.3.a",
@@ -80,9 +70,6 @@
         },
         {
           "num": "1.4",
-          "title": "Chat y comunicación",
-          "severity": "grave",
-          "sub": "Mismas reglas en todos los canales.",
           "items": [
             {
               "code": "1.4.a",
@@ -104,9 +91,6 @@
         },
         {
           "num": "1.5",
-          "title": "Si usas Discord",
-          "severity": "leve",
-          "sub": "Discord es soporte opcional, no obligatorio. Pero si estás, aplica esto.",
           "items": [
             {
               "code": "1.5.a",
@@ -124,13 +108,9 @@
       "id": "10",
       "title": "Actualizaciones",
       "icon": "🔄",
-      "scope": "juego",
       "rules": [
         {
           "num": "10.1",
-          "title": "Política de actualizaciones",
-          "severity": "leve",
-          "sub": "Estabilidad antes que novedad.",
           "items": [
             {
               "code": "10.1.a",
@@ -144,9 +124,6 @@
         },
         {
           "num": "10.2",
-          "title": "Propuestas de mods",
-          "severity": "leve",
-          "sub": "Tu idea puede entrar al servidor.",
           "items": [
             {
               "code": "10.2.a",
@@ -163,14 +140,10 @@
     {
       "id": "11",
       "title": "Sentido Común",
-      "icon": "📄",
-      "scope": "ambos",
+      "icon": "🧠",
       "rules": [
         {
           "num": "11.1",
-          "title": "Sentido común",
-          "severity": "leve",
-          "sub": "Usa la cabeza.",
           "items": [
             {
               "code": "11.1.a",
@@ -188,13 +161,9 @@
       "id": "12",
       "title": "Eventos",
       "icon": "🎉",
-      "scope": "ambos",
       "rules": [
         {
           "num": "12.1",
-          "title": "Eventos comunitarios",
-          "severity": "leve",
-          "sub": "Participación opcional.",
           "items": [
             {
               "code": "12.1.a",
@@ -212,13 +181,9 @@
       "id": "13",
       "title": "Jugadores Inactivos",
       "icon": "💤",
-      "scope": "juego",
       "rules": [
         {
           "num": "13.1",
-          "title": "Inactividad prolongada",
-          "severity": "leve",
-          "sub": "Cuidamos el espacio activo.",
           "items": [
             {
               "code": "13.1.a",
@@ -236,13 +201,9 @@
       "id": "2",
       "title": "Servidor y Disponibilidad",
       "icon": "💻",
-      "scope": "juego",
       "rules": [
         {
           "num": "2.1",
-          "title": "Disponibilidad 24/7",
-          "severity": "leve",
-          "sub": "Host profesional, reinicio diario.",
           "items": [
             {
               "code": "2.1.a",
@@ -260,9 +221,6 @@
         },
         {
           "num": "2.2",
-          "title": "Rendimiento compartido",
-          "severity": "leve",
-          "sub": "Cuida que el servidor vaya fluido para todos.",
           "items": [
             {
               "code": "2.2.a",
@@ -283,14 +241,10 @@
     {
       "id": "3",
       "title": "Cuentas, Acceso y Apelaciones",
-      "icon": "📄",
-      "scope": "ambos",
+      "icon": "🔐",
       "rules": [
         {
           "num": "3.1",
-          "title": "Autentificación",
-          "severity": "expulsion",
-          "sub": "Whitelist + Ely.by/Mojang.",
           "items": [
             {
               "code": "3.1.a",
@@ -308,9 +262,6 @@
         },
         {
           "num": "3.2",
-          "title": "Tu cuenta, tu responsabilidad",
-          "severity": "grave",
-          "sub": "No hay excusas.",
           "items": [
             {
               "code": "3.2.a",
@@ -328,9 +279,6 @@
         },
         {
           "num": "3.3",
-          "title": "Multicuentas y apelaciones",
-          "severity": "expulsion",
-          "sub": "No hay escapatoria.",
           "items": [
             {
               "code": "3.3.a",
@@ -352,13 +300,9 @@
       "id": "4",
       "title": "Construcciones y Espacio",
       "icon": "🏗️",
-      "scope": "juego",
       "rules": [
         {
           "num": "4.1",
-          "title": "Construcciones ajenas",
-          "severity": "expulsion",
-          "sub": "Tenemos logs de cada bloque.",
           "items": [
             {
               "code": "4.1.a",
@@ -376,9 +320,6 @@
         },
         {
           "num": "4.2",
-          "title": "Portales y caminos",
-          "severity": "leve",
-          "sub": "Orden y respeto en el transporte.",
           "items": [
             {
               "code": "4.2.a",
@@ -396,9 +337,6 @@
         },
         {
           "num": "4.3",
-          "title": "Abandono e inactividad",
-          "severity": "leve",
-          "sub": "Cuidamos el espacio para jugadores activos.",
           "items": [
             {
               "code": "4.3.a",
@@ -420,13 +358,9 @@
       "id": "5",
       "title": "Juego Limpio",
       "icon": "⚔️",
-      "scope": "juego",
       "rules": [
         {
           "num": "5.1",
-          "title": "Hacks y X-Ray",
-          "severity": "expulsion",
-          "sub": "Ban permanente, sin excepciones.",
           "items": [
             {
               "code": "5.1.a",
@@ -444,9 +378,6 @@
         },
         {
           "num": "5.2",
-          "title": "Automatización",
-          "severity": "expulsion",
-          "sub": "No juegues por ti.",
           "items": [
             {
               "code": "5.2.a",
@@ -464,9 +395,6 @@
         },
         {
           "num": "5.3",
-          "title": "PvP y combate",
-          "severity": "grave",
-          "sub": "Solo con consentimiento.",
           "items": [
             {
               "code": "5.3.a",
@@ -484,9 +412,6 @@
         },
         {
           "num": "5.4",
-          "title": "Gambling",
-          "severity": "grave",
-          "sub": "Sin apuestas.",
           "items": [
             {
               "code": "5.4.a",
@@ -504,13 +429,9 @@
       "id": "6",
       "title": "Rendimiento y Entidades",
       "icon": "⚙️",
-      "scope": "juego",
       "rules": [
         {
           "num": "6.1",
-          "title": "Granjas y entidades",
-          "severity": "leve",
-          "sub": "El mundo es grande, sé responsable.",
           "items": [
             {
               "code": "6.1.a",
@@ -528,9 +449,6 @@
         },
         {
           "num": "6.2",
-          "title": "Mods permitidos",
-          "severity": "leve",
-          "sub": "Revisa antes de instalar.",
           "items": [
             {
               "code": "6.2.a",
@@ -548,13 +466,9 @@
       "id": "7",
       "title": "Bromas y Contenido Artístico",
       "icon": "🎨",
-      "scope": "juego",
       "rules": [
         {
           "num": "7.1",
-          "title": "Bromas permitidas",
-          "severity": "leve",
-          "sub": "La diversión termina cuando molestas.",
           "items": [
             {
               "code": "7.1.a",
@@ -572,9 +486,6 @@
         },
         {
           "num": "7.2",
-          "title": "Arte y contenido sugerente",
-          "severity": "grave",
-          "sub": "Libertad con límites.",
           "items": [
             {
               "code": "7.2.a",
@@ -596,9 +507,6 @@
         },
         {
           "num": "7.3",
-          "title": "Símbolos y mensajes",
-          "severity": "grave",
-          "sub": "Mantén el tono.",
           "items": [
             {
               "code": "7.3.a",
@@ -615,14 +523,10 @@
     {
       "id": "8",
       "title": "Comercio y Estafas",
-      "icon": "📄",
-      "scope": "ambos",
+      "icon": "💰",
       "rules": [
         {
           "num": "8.1",
-          "title": "Comercio dentro del servidor",
-          "severity": "leve",
-          "sub": "Entre jugadores = libre.",
           "items": [
             {
               "code": "8.1.a",
@@ -636,9 +540,6 @@
         },
         {
           "num": "8.2",
-          "title": "Estafas y dinero real",
-          "severity": "expulsion",
-          "sub": "Línea roja.",
           "items": [
             {
               "code": "8.2.a",
@@ -656,9 +557,6 @@
         },
         {
           "num": "8.3",
-          "title": "Competencia desleal",
-          "severity": "leve",
-          "sub": "En zonas comerciales.",
           "items": [
             {
               "code": "8.3.a",
@@ -676,13 +574,9 @@
       "id": "9",
       "title": "Staff y Sanciones",
       "icon": "🛡️",
-      "scope": "ambos",
       "rules": [
         {
           "num": "9.1",
-          "title": "Trato con el Staff",
-          "severity": "grave",
-          "sub": "Somos voluntarios, no empleados.",
           "items": [
             {
               "code": "9.1.a",
@@ -700,9 +594,6 @@
         },
         {
           "num": "9.2",
-          "title": "Errores y apelaciones",
-          "severity": "leve",
-          "sub": "Somos humanos.",
           "items": [
             {
               "code": "9.2.a",
@@ -716,9 +607,6 @@
         },
         {
           "num": "9.3",
-          "title": "Sistema de sanciones",
-          "severity": "leve",
-          "sub": "Severidades visibles.",
           "items": [
             {
               "code": "9.3.a",
@@ -740,9 +628,6 @@
         },
         {
           "num": "9.4",
-          "title": "Roles de Discord",
-          "severity": "leve",
-          "sub": "No se piden.",
           "items": [
             {
               "code": "9.4.a",
@@ -752,9 +637,6 @@
         },
         {
           "num": "9.5",
-          "title": "Aplicación consistente",
-          "severity": "grave",
-          "sub": "Una norma tolerada pierde autoridad.",
           "items": [
             {
               "code": "9.5.a",
