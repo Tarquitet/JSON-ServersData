@@ -171,245 +171,245 @@
     "Titulo": "Program decorative block interactions",
     "Descripcion": "Usar armor stands u otras entidades invisibles para hacer los bloques funcionales.",
     "Detalles": "Testear exhaustivamente para evitar bugs de interacción o lag.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Convertir canciones custom a formato ogg",
     "Descripcion": "Preparar los archivos de audio requeridos para los eventos y mundos.",
     "Detalles": "Asegurar que el peso de los archivos esté optimizado.",
-    "Estado": "En Progreso",
+    "Estado": "In Progress",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Registrar audios en el archivo sounds.json",
     "Descripcion": "Configurar el Resource Pack para que el juego reconozca las nuevas canciones.",
     "Detalles": "Asignar identificadores de sonido únicos.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Programar items para reproducir musica custom",
     "Descripcion": "Crear un sistema en el Datapack para que al usar un item, se ejecute /playsound.",
     "Detalles": "Vincular estos items a la tienda de economía.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Diseñar texturas custom para cascos y calabazas",
     "Descripcion": "Crear los aspectos visuales que los jugadores podrán equiparse en la cabeza.",
     "Detalles": "Mantener compatibilidad con las hitboxes.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, AGUILA, TARQUI, SNOW, KITTY"
   },
   {
     "Titulo": "Diseñar texturas custom para armaduras",
     "Descripcion": "Crear sets visuales alternativos para las armaduras vanilla.",
     "Detalles": "Definir si se usarán shaders core o el formato de optifine/cit.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, AGUILA, TARQUI, SNOW, KITTY"
   },
   {
     "Titulo": "Diseñar texturas custom para elytras",
     "Descripcion": "Crear variantes visuales para las alas, separadas de las capas.",
     "Detalles": "Aplicar modelos texturizados según el item.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, AGUILA, TARQUI, SNOW, KITTY"
   },
   {
     "Titulo": "Configurar modelos texturizados de armamento",
     "Descripcion": "Programar el Resource Pack para que lea las texturas de cascos, armaduras y elytras.",
     "Detalles": "Realizar pruebas de renderizado en tercera persona.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Modelar en 3D peluche de zoneja",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
     "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Modelar en 3D peluche de fnaf",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
     "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Modelar en 3D peluche de tarqui",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
     "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Modelar en 3D peluche pony aguila",
     "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
     "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Vincular modelos de peluches con CMD",
     "Descripcion": "Asignar CustomModelData a un item vanilla para que cargue los modelos 3D.",
     "Detalles": "Incluir los cuatro modelos en el archivo del Resource Pack.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Agregar los peluches como trofeos como intercambio con aldeanos custom",
     "Descripcion": "Una sección de la economía del servidor serán los peluches. Por el momento, los miembros del staff actuales para definir su uso.",
     "Detalles": "Incluir los peluches del staff como pruebas del sistema de economía.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Programar entidades para colocar peluches",
     "Descripcion": "Crear comandos para generar item frames invisibles donde se exhibirán los peluches.",
     "Detalles": "Asegurar que los jugadores puedan comprar y colocar estos items.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Delimitar y planificar zona para estadio Pokemon",
     "Descripcion": "Definir el area en el mapa que ocupara el evento.",
     "Detalles": "Marcar los limites y preparar el terreno para la construccion principal.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Definir orden de construccion para zona Pokemon",
     "Descripcion": "Establecer prioridades sobre que estructuras construir primero.",
     "Detalles": "Listar areas necesarias y asignar responsables de obra in-game.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Construir estructura principal del estadio Pokemon",
     "Descripcion": "Levantar los cimientos y muros del recinto de combate y comercio.",
     "Detalles": "Mantener la estetica acordada para la expansion del servidor.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Clasificar categorias de coleccionables Pokemon",
     "Descripcion": "Definir los tipos y rarezas de las cartas o items que existiran.",
     "Detalles": "Crear un documento base para mantener el balance.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Asignar valor economico a categorias Pokemon",
     "Descripcion": "Vincular el costo de las cartas con la moneda principal del servidor.",
     "Detalles": "Asegurar que los precios fomenten la participacion sin romper la economia.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Diseñar arte de cartas Pokemon",
     "Descripcion": "Crear los graficos pixel art o ilustraciones para cada carta.",
     "Detalles": "Exportar en la resolucion adecuada para el Resource Pack.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Vincular cartas Pokemon con CustomModelData",
     "Descripcion": "Programar el Resource Pack para que lea el arte de las cartas sobre un item base.",
     "Detalles": "Verificar que las transparencias y bordes se vean bien in-game.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Diseñar sprites de caras pixeladas Pokemon",
     "Descripcion": "Crear arte decorativo en baja resolucion para ambientar el estadio.",
     "Detalles": "Pueden usarse como base para cabezas custom o texturas planas.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Integrar caras pixeladas en Resource Pack",
     "Descripcion": "Mapear los sprites diseñados dentro de los archivos visuales del servidor.",
     "Detalles": "Asignarlos a bloques decorativos o CustomModelData.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Construir maparts tematicos de Pokemon",
     "Descripcion": "Crear arte a gran escala utilizando bloques en una zona plana del mapa vanilla.",
     "Detalles": "Preparar los esquemas y recolectar los materiales de construccion necesarios.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Bloquear y exhibir maparts de Pokemon",
     "Descripcion": "Pasar mapas de cristal sobre los maparts construidos para evitar modificaciones.",
     "Detalles": "Colocarlos en marcos luminosos alrededor del estadio.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Balancear precios para tradeos del evento Pokemon",
     "Descripcion": "Definir exactamente que pediran y que daran los NPCs del estadio.",
     "Detalles": "Revisar la tabla de economia general para mantener coherencia.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Programar NPCs de tradeo custom para estadio Pokemon",
     "Descripcion": "Generar los comandos summon con la informacion NBT de los nuevos aldeanos.",
     "Detalles": "Posicionar a los NPCs de forma invulnerable en sus respectivos puestos.",
-    "Estado": "Planeado",
+    "Estado": "Planned",
     "Encargados": "-, KITTY, SNOW"
   },
   {
     "Titulo": "Crear textura para calabaza de broma",
     "Descripcion": "Diseñar un modelo o textura graciosa para usarla en el juego.",
     "Detalles": "Ajustar el diseño para que encaje como casco o calabaza tallada.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, KITTY"
   },
   {
     "Titulo": "Asignar textura de calabaza temporalmente en RP",
     "Descripcion": "Integrar la broma en el Resource Pack oficial de manera temporal.",
     "Detalles": "Preparar la actualizacion del paquete para los jugadores.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI"
   },
   {
     "Titulo": "Planificar alcance de bromas para Dia de Inocentes",
     "Descripcion": "Definir por escrito que acciones tomara el usuario Kitty en el evento.",
     "Detalles": "Asegurar que las bromas sean inofensivas y no dañen progreso de construccion.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, TARQUI, KITTY"
   },
   {
     "Titulo": "Programar logica de evento de inocentes en Datapack",
     "Descripcion": "Crear comandos temporales o scripts que ejecuten las mecanicas de broma.",
     "Detalles": "Testear en el servidor de pruebas y retirar el codigo una vez termine el evento.",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-, KITTY, TARQUI"
   },
   {
     "Titulo": "Mapart 1er logo btc",
     "Descripcion": "Contruir en survival el mapart del primer logo del servidor old",
     "Detalles": "Construcciones mapart en survival",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-"
   },
   {
     "Titulo": "Mapart 2do logo btc",
     "Descripcion": "Construir el segundo logo actual",
     "Detalles": "Construcciones mapart en survival",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-"
   },
   {
     "Titulo": "Mapart 3er logo btc",
     "Descripcion": "Contruir el tercer y nuevo logo del serivdor",
     "Detalles": "Construcciones mapart en survival",
-    "Estado": "Concepto",
+    "Estado": "Concept",
     "Encargados": "-"
   }
 ]
