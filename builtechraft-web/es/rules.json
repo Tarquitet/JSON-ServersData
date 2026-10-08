@@ -34,7 +34,7 @@
           "items": [
             {
               "code": "1.2.a",
-              "text": "**Contenido +18, NSFW o sexual = expulsión directa.** Incluye construcciones, mensajes, skins y fotos de perfil."
+              "text": "<strong>Contenido +18, NSFW o sexual = expulsión directa.</strong> Incluye construcciones, mensajes, skins y fotos de perfil."
             },
             {
               "code": "1.2.b",
@@ -58,11 +58,11 @@
           "items": [
             {
               "code": "1.3.a",
-              "text": "**Prohibidos:** banderas políticas, ideologías, símbolos polémicos (esvásticas, símbolos de odio), gore, contenido violento y ofensivo."
+              "text": "<strong>Prohibidos:</strong> banderas políticas, ideologías, símbolos polémicos (esvásticas, símbolos de odio), gore, contenido violento y ofensivo."
             },
             {
               "code": "1.3.b",
-              "text": "**Construcciones históricas sí permitidas:** Castillos, Taj Mahal, monumentos, siempre que no incluyan símbolos ofensivos."
+              "text": "<strong>Construcciones históricas sí permitidas:</strong> Castillos, Taj Mahal, monumentos, siempre que no incluyan símbolos ofensivos."
             },
             {
               "code": "1.3.c",
@@ -250,7 +250,7 @@
             },
             {
               "code": "2.1.b",
-              "text": "**Reinicio diario:** Una vez al día se reinicia automáticamente para limpiar RAM. Pocos minutos sin acceso, es normal."
+              "text": "<strong>Reinicio diario:</strong> Una vez al día se reinicia automáticamente para limpiar RAM. Pocos minutos sin acceso, es normal."
             },
             {
               "code": "2.1.c",
@@ -322,7 +322,7 @@
             },
             {
               "code": "3.2.c",
-              "text": "**Suplantación del Staff = expulsión directa.** Nadie del equipo te pedirá tu contraseña."
+              "text": "<strong>Suplantación del Staff = expulsión directa.</strong> Nadie del equipo te pedirá tu contraseña."
             }
           ]
         },
@@ -430,7 +430,7 @@
           "items": [
             {
               "code": "5.1.a",
-              "text": "**X-Ray = ban permanente.** Incluye mods, resource packs, lava transparencia, o usar la seed para encontrar minerales."
+              "text": "<strong>X-Ray = ban permanente.</strong> Incluye mods, resource packs, lava transparencia, o usar la seed para encontrar minerales."
             },
             {
               "code": "5.1.b",
@@ -518,7 +518,7 @@
             },
             {
               "code": "6.1.b",
-              "text": "**Chunk loaders solo cuando sea absolutamente necesario.** No para mantener granjas corriendo 24/7."
+              "text": "<strong>Chunk loaders solo cuando sea absolutamente necesario.</strong> No para mantener granjas corriendo 24/7."
             },
             {
               "code": "6.1.c",
@@ -642,7 +642,7 @@
           "items": [
             {
               "code": "8.2.a",
-              "text": "**Prohibido vender ítems, cuentas o servicios por dinero real** (PayPal, cripto, etc.). Expulsión directa."
+              "text": "<strong>Prohibido vender ítems, cuentas o servicios por dinero real</strong> (PayPal, cripto, etc.). Expulsión directa."
             },
             {
               "code": "8.2.b",
@@ -722,15 +722,15 @@
           "items": [
             {
               "code": "9.3.a",
-              "text": "**Leve:** Amonestación o mute temporal. Faltas menores o primeras veces."
+              "text": "<strong>Leve:</strong> Amonestación o mute temporal. Faltas menores o primeras veces."
             },
             {
               "code": "9.3.b",
-              "text": "**Grave:** Ban temporal. Faltas recurrentes o de impacto medio."
+              "text": "<strong>Grave:</strong> Ban temporal. Faltas recurrentes o de impacto medio."
             },
             {
               "code": "9.3.c",
-              "text": "**Expulsión:** Ban permanente. Faltas graves (X-Ray, estafas, evasión, suplantación)."
+              "text": "<strong>Expulsión:</strong> Ban permanente. Faltas graves (X-Ray, estafas, evasión, suplantación)."
             },
             {
               "code": "9.3.d",
