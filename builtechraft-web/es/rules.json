@@ -131,7 +131,7 @@
             },
             {
               "code": "10.2.b",
-              "text": "La lista oficial actualizada está en la wiki."
+              "text": "La lista oficial actualizada está en la web."
             }
           ]
         }
@@ -152,46 +152,6 @@
             {
               "code": "11.1.b",
               "text": "El Staff tiene la última palabra en situaciones no cubiertas por estas normas."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Eventos",
-      "icon": "🎉",
-      "rules": [
-        {
-          "num": "12.1",
-          "items": [
-            {
-              "code": "12.1.a",
-              "text": "Los eventos se anuncian en Discord. Participación voluntaria."
-            },
-            {
-              "code": "12.1.b",
-              "text": "Respeta las reglas del evento. Romperlas = descalificación y posible sanción."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Jugadores Inactivos",
-      "icon": "💤",
-      "rules": [
-        {
-          "num": "13.1",
-          "items": [
-            {
-              "code": "13.1.a",
-              "text": "Tras 60 días sin entrar, tu zona puede ser liberada para nuevos jugadores."
-            },
-            {
-              "code": "13.1.b",
-              "text": "Si vas a estar inactivo, avisa al Staff para mantener tu whitelist."
             }
           ]
         }
