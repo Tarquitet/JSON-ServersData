@@ -30,7 +30,7 @@
           "items": [
             {
               "code": "1.2.a",
-              "text": "**Content 18+, NSFW, or sexual = immediate expulsion.** Includes buildings, messages, skins, and profile pictures."
+              "text": "<strong>Content 18+, NSFW, or sexual = immediate expulsion.</strong> Includes buildings, messages, skins, and profile pictures."
             },
             {
               "code": "1.2.b",
@@ -54,11 +54,11 @@
           "items": [
             {
               "code": "1.3.a",
-              "text": "**Prohibited:** political flags, ideologies, controversial symbols (swastikas, hate symbols), gore, violent and offensive content."
+              "text": "<strong>Prohibited:</strong> political flags, ideologies, controversial symbols (swastikas, hate symbols), gore, violent and offensive content."
             },
             {
               "code": "1.3.b",
-              "text": "**Permitted historical buildings:** Castles, Taj Mahal, monuments, provided they do not include offensive symbols."
+              "text": "<strong>Permitted historical buildings:</strong> Castles, Taj Mahal, monuments, provided they do not include offensive symbols."
             },
             {
               "code": "1.3.c",
@@ -246,7 +246,7 @@
             },
             {
               "code": "2.1.b",
-              "text": "**Daily Restart:** Once a day, the device automatically restarts to clear RAM. A few minutes of inactivity is normal."
+              "text": "<strong>Daily Restart:</strong> Once a day, the device automatically restarts to clear RAM. A few minutes of inactivity is normal."
             },
             {
               "code": "2.1.c",
@@ -318,7 +318,7 @@
             },
             {
               "code": "3.2.c",
-              "text": "**Impersonating a staff member will result in immediate expulsion.** No one on the team will ask for your password."
+              "text": "<strong>Impersonating a staff member will result in immediate expulsion.</strong> No one on the team will ask for your password."
             }
           ]
         },
@@ -426,7 +426,7 @@
           "items": [
             {
               "code": "5.1.a",
-              "text": "**X-Ray = permanent ban.** Includes mods, resource packs, lava transparency, or using the seed to find minerals."
+              "text": "<strong>X-Ray = permanent ban.</strong> Includes mods, resource packs, lava transparency, or using the seed to find minerals."
             },
             {
               "code": "5.1.b",
@@ -514,7 +514,7 @@
             },
             {
               "code": "6.1.b",
-              "text": "**Chunk loaders only when absolutely necessary.** Not for keeping farms running 24/7."
+              "text": "<strong>Chunk loaders only when absolutely necessary.</strong> Not for keeping farms running 24/7."
             },
             {
               "code": "6.1.c",
@@ -718,15 +718,15 @@
           "items": [
             {
               "code": "9.3.a",
-              "text": "**Minor:** Warning or temporary mute. Minor offenses or first offenses."
+              "text": "<strong>Minor:</strong> Warning or temporary mute. Minor offenses or first offenses."
             },
             {
               "code": "9.3.b",
-              "text": "**Serious:** Temporary ban. Recurring or medium-impact offenses."
+              "text": "<strong>Serious:</strong> Temporary ban. Recurring or medium-impact offenses."
             },
             {
               "code": "9.3.c",
-              "text": "**Expulsion:** Permanent ban. Serious offenses (X-Ray, fraud, evasion, impersonation)."
+              "text": "<strong>Expulsion:</strong> Permanent ban. Serious offenses (X-Ray, fraud, evasion, impersonation)."
             },
             {
               "code": "9.3.d",
