@@ -7,23 +7,7 @@
       "scope": "ambos",
       "rules": [
         {
-          "num": "Sun Feb 01 2026 03:00:00 GMT-0500 (hora estándar de Colombia)",
-          "title": "Protección de menores",
-          "severity": "expulsion",
-          "sub": "Este servidor incluye jugadores de todas las edades.",
-          "items": [
-            {
-              "code": "1.2.a",
-              "text": "**Contenido +18, NSFW o sexual = expulsión directa.** Incluye construcciones, mensajes, skins y fotos de perfil."
-            },
-            {
-              "code": "1.2.b",
-              "text": "Cualquier insinuación sexual hacia menores (grooming) = expulsión y reporte a las autoridades correspondientes."
-            }
-          ]
-        },
-        {
-          "num": "Thu Jan 01 2026 03:00:00 GMT-0500 (hora estándar de Colombia)",
+          "num": "1.1",
           "title": "Respeto universal",
           "severity": "expulsion",
           "sub": "Dentro y fuera del servidor.",
@@ -41,6 +25,22 @@
               "text": "Dramas y peleas públicas = sanción. Los problemas se resuelven por ticket."
             }
           ]
+        },
+        {
+          "num": "1.2",
+          "title": "Protección de menores",
+          "severity": "expulsion",
+          "sub": "Este servidor incluye jugadores de todas las edades.",
+          "items": [
+            {
+              "code": "1.2.a",
+              "text": "**Contenido +18, NSFW o sexual** Incluye construcciones, mensajes, skins y fotos de perfil."
+            },
+            {
+              "code": "1.2.b",
+              "text": "Cualquier insinuación sexual hacia menores es motivo de expulsión y reporte a las autoridades correspondientes."
+            }
+          ]
         }
       ]
     },
@@ -51,7 +51,7 @@
       "scope": "juego",
       "rules": [
         {
-          "num": "Fri Jan 02 2026 03:00:00 GMT-0500 (hora estándar de Colombia)",
+          "num": "2.1",
           "title": "Disponibilidad 24/7",
           "severity": "leve",
           "sub": "Host profesional, reinicio diario.",
