@@ -7,7 +7,7 @@
       "scope": "ambos",
       "rules": [
         {
-          "num": "46023",
+          "num": "1.1",
           "title": "Universal respect",
           "severity": "expulsion",
           "sub": "Inside and outside the server.",
@@ -23,18 +23,18 @@
           ]
         },
         {
-          "num": "46054",
+          "num": "1.2",
           "title": "Child protection",
           "severity": "expulsion",
           "sub": "This server includes players of all ages.",
           "items": [
             {
               "code": "1.2.a",
-              "text": "**Content 18+, NSFW, or sexual = immediate expulsion.** Includes buildings, messages, skins, and profile pictures."
+              "text": "**18+, NSFW or sexual content** Includes buildings, messages, skins and profile pictures."
             },
             {
               "code": "1.2.b",
-              "text": "Any sexual advances towards minors (grooming) = expulsion and report to the appropriate authorities."
+              "text": "Any sexual advance towards minors is grounds for expulsion and reporting to the appropriate authorities."
             }
           ]
         }
@@ -47,7 +47,7 @@
       "scope": "juego",
       "rules": [
         {
-          "num": "46024",
+          "num": "2.1",
           "title": "24/7 Availability",
           "severity": "leve",
           "sub": "Professional host, daily reboot.",
