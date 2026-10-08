@@ -1,415 +1,68 @@
-[
-  {
-    "Titulo": "Create base scoreboards for in-game roles",
-    "Descripcion": "Configure the game's internal database for ranks.",
-    "Detalles": "Create the 'teams' corresponding to the Discord roles.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Program allocation functions in datapack",
-    "Descripcion": "Make the system assign players to their respective teams.",
-    "Detalles": "Automate the process using logical commands in the core.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Design a visual format for ranges in chat",
-    "Descripcion": "Decide how prefixes and suffixes will appear in the game chat.",
-    "Detalles": "Choose colors, brackets, or symbols for each range.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Texture pack for roles in MC",
-    "Descripcion": "How would a texture pack with roles look and be used if they are not an existing item or block in the game?",
-    "Detalles": "Download the texture pack from the green button here:\nhttps://modrinth.com/resourcepack/alternative-wynn-ranks/version/1.2",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI, SNOW"
-  },
-  {
-    "Titulo": "How to create and understand a texture pack for Minecraft",
-    "Descripcion": "The user must understand how to use a Minecraft texture pack, in this case, to add a new item with a texture according to the language.",
-    "Detalles": "Video tutorial on how to understand the folder structure of a texture pack:\nhttps://www.youtube.com/watch?v=ktqtih_2v38",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW"
-  },
-  {
-    "Titulo": "Linking roles with the in-game chat format",
-    "Descripcion": "Apply visual design to the messages sent by players.",
-    "Detalles": "Use macros or formats within the chat datapack.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Program trigger commands for custom nicknames",
-    "Descripcion": "Create the basic system so that a player can change the color of their name.",
-    "Detalles": "Use user-accessible trigger scoreboards.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Configure color usage permissions",
-    "Descripcion": "Define which ranges can use which colors in their tab nickname.",
-    "Detalles": "Restrict special colors to high ranges.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Set up life scoreboard",
-    "Descripcion": "Create the objective that tracks each player's health.",
-    "Detalles": "Ensure that it is updated in real time.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Configure display belowname",
-    "Descripcion": "Make the role and clan visible above the character's head.",
-    "Detalles": "Linking the created scoreboard to this display slot will involve suffixes and prefixes.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Define base vanilla item for the currency",
-    "Descripcion": "Select which in-game item will serve as the basis for the economy.",
-    "Detalles": "It must be an item that players cannot easily obtain in survival mode.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Establish exchange value table",
-    "Descripcion": "Define the value of the currency in relation to decorative items and advantages.",
-    "Detalles": "Projecting costs to set clear objectives without causing inflation.",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Design textures for BTC coins",
-    "Descripcion": "Create the pixel art that will visually represent the coin.",
-    "Detalles": "Maintain an aesthetic consistent with the server.",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Assign CustomModelData to the coins",
-    "Descripcion": "Program the Resource Pack to display the texture created on the base item.",
-    "Detalles": "Verify that it appears correctly in the inventory and when discarded.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Gathering trading ideas from players",
-    "Descripcion": "Create a poll or thread on Discord to determine what people want to buy.",
-    "Detalles": "Encourage the community to contribute to the economy.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI, AGUILA"
-  },
-  {
-    "Titulo": "Schedule summon commands for villagers",
-    "Descripcion": "Create the economy NPCs using NBT data edited in the Datapack.",
-    "Detalles": "Establish exact trades, limiting uses if necessary.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Locate trading villagers in the world",
-    "Descripcion": "Physically position the NPCs in the server's commercial area.",
-    "Detalles": "Make sure they are invulnerable and do not move.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI, AGUILA"
-  },
-  {
-    "Titulo": "Design a recipe for crafting a hamburger",
-    "Descripcion": "Define the vanilla ingredients needed for the new recipe.",
-    "Detalles": "Balance the cost of the ingredients with the saturation it will give.",
-    "Estado": "Concept",
-    "Encargados": "-, AGUILA"
-  },
-  {
-    "Titulo": "Schedule JSON file for hamburger",
-    "Descripcion": "Create the crafting logic within the recipes folder of the Datapack.",
-    "Detalles": "Perform server tests to verify that crafting works.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI, AGUILA"
-  },
-  {
-    "Titulo": "Design visual icons for BTC ranges",
-    "Descripcion": "Create the small graphics that will represent each role in the interface.",
-    "Detalles": "Design in pixel art format to maintain vanilla consistency.",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW"
-  },
-  {
-    "Titulo": "Map rank icons to the RP font",
-    "Descripcion": "Integrate the images into the font/characters folder of the Resource Pack.",
-    "Detalles": "Adjust the spacing so that it does not overlap with the chat text.",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Gather images for new paintings",
-    "Descripcion": "Select the complex artwork that will replace or add paintings to the game.",
-    "Detalles": "Adjust image resolutions.",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Integrate frame textures into Resource Pack",
-    "Descripcion": "Modify the files corresponding to the vanilla paintings.",
-    "Detalles": "Verify in-game that all sizes work correctly.",
-    "Estado": "Concept",
-    "Encargados": "-, SNOW, TARQUI"
-  },
-  {
-    "Titulo": "Model chairs, tables and lanterns in 3D",
-    "Descripcion": "Create the geometry of vanilla-friendly decorative blocks.",
-    "Detalles": "Use Blockbench to design and texture models.",
-    "Estado": "Concept",
-    "Encargados": "-, AGUILA, TARQUI"
-  },
-  {
-    "Titulo": "Program decorative block interactions",
-    "Descripcion": "Use armor stands or other invisible entities to make the blocks functional.",
-    "Detalles": "Test thoroughly to avoid interaction bugs or lag.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Convert custom songs to ogg format",
-    "Descripcion": "Prepare the audio files required for the events and worlds.",
-    "Detalles": "Ensure that the file size is optimized.",
-    "Estado": "In Progress",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Record audio in the sounds.json file",
-    "Descripcion": "Configure the Resource Pack so that the game recognizes the new songs.",
-    "Detalles": "Assign unique sound identifiers.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Program items to play custom music",
-    "Descripcion": "Create a system in the Datapack so that when using an item, /playsound is executed.",
-    "Detalles": "Link these items to the economy store.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Design custom textures for helmets and pumpkins",
-    "Descripcion": "Create the visual elements that players will be able to equip on their heads.",
-    "Detalles": "Maintain compatibility with hitboxes.",
-    "Estado": "Concept",
-    "Encargados": "-, AGUILA, TARQUI, SNOW, KITTY"
-  },
-  {
-    "Titulo": "Design custom textures for armor",
-    "Descripcion": "Create alternative visual sets for vanilla armor.",
-    "Detalles": "Define whether to use core shaders or the optifine/cit format.",
-    "Estado": "Concept",
-    "Encargados": "-, AGUILA, TARQUI, SNOW, KITTY"
-  },
-  {
-    "Titulo": "Design custom textures for elytra",
-    "Descripcion": "Create visual variations for the wings, separate from the layers.",
-    "Detalles": "Apply textured models according to the item.",
-    "Estado": "Concept",
-    "Encargados": "-, AGUILA, TARQUI, SNOW, KITTY"
-  },
-  {
-    "Titulo": "Configure textured weapon models",
-    "Descripcion": "Program the Resource Pack to read the textures of helmets, armor, and elytra.",
-    "Detalles": "Perform third-person rendering tests.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "3D modeling of a plush toy of a zonja",
-    "Descripcion": "Design and texture the decorative pattern in Blockbench.",
-    "Detalles": "Adjust the scale so it looks like a plush toy.",
-    "Estado": "Concept",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "3D modeling of a FNAF plushie",
-    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
-    "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Modelar en 3D peluche de tarqui",
-    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
-    "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Modelar en 3D peluche pony aguila",
-    "Descripcion": "Diseñar y texturizar el modelo decorativo en Blockbench.",
-    "Detalles": "Ajustar la escala para que parezca un peluche.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Vincular modelos de peluches con CMD",
-    "Descripcion": "Asignar CustomModelData a un item vanilla para que cargue los modelos 3D.",
-    "Detalles": "Incluir los cuatro modelos en el archivo del Resource Pack.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Agregar los peluches como trofeos como intercambio con aldeanos custom",
-    "Descripcion": "Una sección de la economía del servidor serán los peluches. Por el momento, los miembros del staff actuales para definir su uso.",
-    "Detalles": "Incluir los peluches del staff como pruebas del sistema de economía.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Programar entidades para colocar peluches",
-    "Descripcion": "Crear comandos para generar item frames invisibles donde se exhibirán los peluches.",
-    "Detalles": "Asegurar que los jugadores puedan comprar y colocar estos items.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Delimitar y planificar zona para estadio Pokemon",
-    "Descripcion": "Definir el area en el mapa que ocupara el evento.",
-    "Detalles": "Marcar los limites y preparar el terreno para la construccion principal.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Definir orden de construccion para zona Pokemon",
-    "Descripcion": "Establecer prioridades sobre que estructuras construir primero.",
-    "Detalles": "Listar areas necesarias y asignar responsables de obra in-game.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Construir estructura principal del estadio Pokemon",
-    "Descripcion": "Levantar los cimientos y muros del recinto de combate y comercio.",
-    "Detalles": "Mantener la estetica acordada para la expansion del servidor.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Clasificar categorias de coleccionables Pokemon",
-    "Descripcion": "Definir los tipos y rarezas de las cartas o items que existiran.",
-    "Detalles": "Crear un documento base para mantener el balance.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Asignar valor economico a categorias Pokemon",
-    "Descripcion": "Vincular el costo de las cartas con la moneda principal del servidor.",
-    "Detalles": "Asegurar que los precios fomenten la participacion sin romper la economia.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Diseñar arte de cartas Pokemon",
-    "Descripcion": "Crear los graficos pixel art o ilustraciones para cada carta.",
-    "Detalles": "Exportar en la resolucion adecuada para el Resource Pack.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Vincular cartas Pokemon con CustomModelData",
-    "Descripcion": "Programar el Resource Pack para que lea el arte de las cartas sobre un item base.",
-    "Detalles": "Verificar que las transparencias y bordes se vean bien in-game.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Diseñar sprites de caras pixeladas Pokemon",
-    "Descripcion": "Crear arte decorativo en baja resolucion para ambientar el estadio.",
-    "Detalles": "Pueden usarse como base para cabezas custom o texturas planas.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Integrar caras pixeladas en Resource Pack",
-    "Descripcion": "Mapear los sprites diseñados dentro de los archivos visuales del servidor.",
-    "Detalles": "Asignarlos a bloques decorativos o CustomModelData.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Construir maparts tematicos de Pokemon",
-    "Descripcion": "Crear arte a gran escala utilizando bloques en una zona plana del mapa vanilla.",
-    "Detalles": "Preparar los esquemas y recolectar los materiales de construccion necesarios.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Bloquear y exhibir maparts de Pokemon",
-    "Descripcion": "Pasar mapas de cristal sobre los maparts construidos para evitar modificaciones.",
-    "Detalles": "Colocarlos en marcos luminosos alrededor del estadio.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Balancear precios para tradeos del evento Pokemon",
-    "Descripcion": "Definir exactamente que pediran y que daran los NPCs del estadio.",
-    "Detalles": "Revisar la tabla de economia general para mantener coherencia.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Programar NPCs de tradeo custom para estadio Pokemon",
-    "Descripcion": "Generar los comandos summon con la informacion NBT de los nuevos aldeanos.",
-    "Detalles": "Posicionar a los NPCs de forma invulnerable en sus respectivos puestos.",
-    "Estado": "Planeado",
-    "Encargados": "-, KITTY, SNOW"
-  },
-  {
-    "Titulo": "Crear textura para calabaza de broma",
-    "Descripcion": "Diseñar un modelo o textura graciosa para usarla en el juego.",
-    "Detalles": "Ajustar el diseño para que encaje como casco o calabaza tallada.",
-    "Estado": "Concepto",
-    "Encargados": "-, KITTY"
-  },
-  {
-    "Titulo": "Asignar textura de calabaza temporalmente en RP",
-    "Descripcion": "Integrar la broma en el Resource Pack oficial de manera temporal.",
-    "Detalles": "Preparar la actualizacion del paquete para los jugadores.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI"
-  },
-  {
-    "Titulo": "Planificar alcance de bromas para Dia de Inocentes",
-    "Descripcion": "Definir por escrito que acciones tomara el usuario Kitty en el evento.",
-    "Detalles": "Asegurar que las bromas sean inofensivas y no dañen progreso de construccion.",
-    "Estado": "Concepto",
-    "Encargados": "-, TARQUI, KITTY"
-  },
-  {
-    "Titulo": "Programar logica de evento de inocentes en Datapack",
-    "Descripcion": "Crear comandos temporales o scripts que ejecuten las mecanicas de broma.",
-    "Detalles": "Testear en el servidor de pruebas y retirar el codigo una vez termine el evento.",
-    "Estado": "Concepto",
-    "Encargados": "-, KITTY, TARQUI"
-  },
-  {
-    "Titulo": "Mapart 1er logo btc",
-    "Descripcion": "Contruir en survival el mapart del primer logo del servidor old",
-    "Detalles": "Construcciones mapart en survival",
-    "Estado": "Concepto",
-    "Encargados": "-"
-  },
-  {
-    "Titulo": "Mapart 2do logo btc",
-    "Descripcion": "Construir el segundo logo actual",
-    "Detalles": "Construcciones mapart en survival",
-    "Estado": "Concepto",
-    "Encargados": "-"
-  },
-  {
-    "Titulo": "Mapart 3er logo btc",
-    "Descripcion": "Contruir el tercer y nuevo logo del serivdor",
-    "Detalles": "Construcciones mapart en survival",
-    "Estado": "Concepto",
-    "Encargados": "-"
-  }
-]
+{
+  "sections": [
+    {
+      "id": "1",
+      "title": "Respect and Coexistence",
+      "icon": "✨",
+      "scope": "ambos",
+      "rules": [
+        {
+          "num": "46023",
+          "title": "Universal respect",
+          "severity": "expulsion",
+          "sub": "Inside and outside the server.",
+          "items": [
+            {
+              "code": "1.1.b",
+              "text": "Avoid foul language, toxicity, and bringing controversies or external news to the server."
+            },
+            {
+              "code": "1.1.c",
+              "text": "Dramas and public fights = penalty. Problems are resolved by ticket."
+            }
+          ]
+        },
+        {
+          "num": "46054",
+          "title": "Child protection",
+          "severity": "expulsion",
+          "sub": "This server includes players of all ages.",
+          "items": [
+            {
+              "code": "1.2.a",
+              "text": "**Content 18+, NSFW, or sexual = immediate expulsion.** Includes buildings, messages, skins, and profile pictures."
+            },
+            {
+              "code": "1.2.b",
+              "text": "Any sexual advances towards minors (grooming) = expulsion and report to the appropriate authorities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Server and Availability",
+      "icon": "💻",
+      "scope": "juego",
+      "rules": [
+        {
+          "num": "46024",
+          "title": "24/7 Availability",
+          "severity": "leve",
+          "sub": "Professional host, daily reboot.",
+          "items": [
+            {
+              "code": "2.1.a",
+              "text": "The server remains active 24/7 on a dedicated host. We no longer depend on home electricity or internet."
+            },
+            {
+              "code": "2.1.b",
+              "text": "**Daily Restart:** Once a day, the device automatically restarts to clear RAM. A few minutes of inactivity is normal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
