@@ -28,8 +28,8 @@
     "Encargados": "-, TARQUI, SNOW"
   },
   {
-    "Titulo": "How to create and understand a texture pack for Minecraft",
-    "Descripcion": "The user must understand how to use a Minecraft texture pack, in this case, to add a new item with a texture according to the language.",
+    "Titulo": "Understanding a resource pack",
+    "Descripcion": "We're going to create new vanilla items using the power of resource packs. How do we use them?",
     "Detalles": "Video tutorial on how to understand the folder structure of a texture pack:\nhttps://www.youtube.com/watch?v=ktqtih_2v38",
     "Estado": "Concept",
     "Encargados": "-, SNOW"
