@@ -90,6 +90,16 @@
     "Categoria": "Funcionalidad"
   },
   {
+    "Name": "Disconnect Packet Fix",
+    "Desc": "Works around the MC-271325 bug on Fabric and NeoForge servers (fixes \"error sending packet clientbound/minecraft:disconnect\")",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/rd9rKuJT/d80231b72f74b4ed3b6e67ec14d835ee56f3d984.png",
+    "Url": "https://modrinth.com/project/disconnect-packet-fix",
+    "Id": "rd9rKuJT",
+    "Contenido": "Mod",
+    "Categoria": "Funcionalidad"
+  },
+  {
     "Name": "Durability Ping",
     "Desc": "Let the server show you the low durability of your items.",
     "Type": "AMBOS",
@@ -148,6 +158,16 @@
     "Id": "Z0zGkiUf",
     "Contenido": "Datapack",
     "Categoria": "Death Saved"
+  },
+  {
+    "Name": "Krypton",
+    "Desc": "A mod to optimize the Minecraft networking stack",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp",
+    "Url": "https://modrinth.com/project/krypton",
+    "Id": "fQEb0iXm",
+    "Contenido": "Mod",
+    "Categoria": "Optimizacion"
   },
   {
     "Name": "Ledger",
@@ -228,6 +248,16 @@
     "Id": "w5XQtGRr",
     "Contenido": "Datapack",
     "Categoria": "Funcionalidad"
+  },
+  {
+    "Name": "ScalableLux",
+    "Desc": "A Fabric mod based on Starlight that improves the performance of light updates in Minecraft.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp",
+    "Url": "https://modrinth.com/project/scalablelux",
+    "Id": "Ps1zyz6x",
+    "Contenido": "Mod",
+    "Categoria": "Optimizacion"
   },
   {
     "Name": "Servux",
