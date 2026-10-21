@@ -90,6 +90,16 @@
     "Categoria": "Funcionalidad"
   },
   {
+    "Name": "Disconnect Packet Fix",
+    "Desc": "Soluciona el error MC-271325 en los servidores Fabric y NeoForge (corrige el error \"error sending packet clientbound/minecraft:disconnect\").",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/rd9rKuJT/d80231b72f74b4ed3b6e67ec14d835ee56f3d984.png",
+    "Url": "https://modrinth.com/project/disconnect-packet-fix",
+    "Id": "rd9rKuJT",
+    "Contenido": "Mod",
+    "Categoria": "Funcionalidad"
+  },
+  {
     "Name": "Durability Ping",
     "Desc": "Deja que el servidor te muestre la baja durabilidad de tus objetos.",
     "Type": "AMBOS",
@@ -101,7 +111,7 @@
   },
   {
     "Name": "Fabric API",
-    "Desc": "API ligera y modular que proporciona ganchos comunes y medidas de intercompatibilidad utilizadas por los mods que usan la cadena de herramientas Fabric.",
+    "Desc": "API ligera y modular que proporciona ganchos comunes y medidas de intercompatibilidad utilizadas por los mods que utilizan la cadena de herramientas Fabric.",
     "Type": "AMBOS",
     "Icon": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
     "Url": "https://modrinth.com/project/fabric-api",
@@ -148,6 +158,16 @@
     "Id": "Z0zGkiUf",
     "Contenido": "Datapack",
     "Categoria": "Death Saved"
+  },
+  {
+    "Name": "Krypton",
+    "Desc": "Un mod para optimizar la pila de red de Minecraft",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp",
+    "Url": "https://modrinth.com/project/krypton",
+    "Id": "fQEb0iXm",
+    "Contenido": "Mod",
+    "Categoria": "Optimizacion"
   },
   {
     "Name": "Ledger",
@@ -228,6 +248,16 @@
     "Id": "w5XQtGRr",
     "Contenido": "Datapack",
     "Categoria": "Funcionalidad"
+  },
+  {
+    "Name": "ScalableLux",
+    "Desc": "Un mod de Fabric basado en Starlight que mejora el rendimiento de las actualizaciones de iluminación en Minecraft.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp",
+    "Url": "https://modrinth.com/project/scalablelux",
+    "Id": "Ps1zyz6x",
+    "Contenido": "Mod",
+    "Categoria": "Optimizacion"
   },
   {
     "Name": "Servux",
