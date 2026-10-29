@@ -111,7 +111,7 @@
   },
   {
     "Name": "Fabric API",
-    "Desc": "API ligera y modular que proporciona ganchos comunes y medidas de intercompatibilidad utilizadas por los mods que utilizan la cadena de herramientas Fabric.",
+    "Desc": "API ligera y modular que proporciona ganchos comunes y medidas de intercompatibilidad utilizadas por los mods que usan la cadena de herramientas Fabric.",
     "Type": "AMBOS",
     "Icon": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
     "Url": "https://modrinth.com/project/fabric-api",
@@ -140,6 +140,16 @@
     "Categoria": "Optimizacion"
   },
   {
+    "Name": "Floodgate",
+    "Desc": "Modificación de modo híbrido para permitir conexiones desde Geyser a servidores en modo online.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/bWrNNfkb/851eeb9b5daf37baaebe7e8f25e8437735897c9c_96.webp",
+    "Url": "https://modrinth.com/project/floodgate",
+    "Id": "bWrNNfkb",
+    "Contenido": "Mod",
+    "Categoria": "Bedrock"
+  },
+  {
     "Name": "Footprint",
     "Desc": "Modificación del servidor para reducir el tamaño del mundo al no guardar todos los fragmentos.",
     "Type": "AMBOS",
@@ -148,6 +158,16 @@
     "Id": "1dy7kepT",
     "Contenido": "Mod",
     "Categoria": "Optimizacion"
+  },
+  {
+    "Name": "Geyser",
+    "Desc": "Un puente/proxy que te permite conectarte a servidores de Minecraft: Java Edition con Minecraft: Bedrock Edition.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/wKkoqHrH/6e8e781d5669ecef9e19a73b5c2eed060d6f73e7_96.webp",
+    "Url": "https://modrinth.com/project/geyser",
+    "Id": "wKkoqHrH",
+    "Contenido": "Plugin",
+    "Categoria": "Bedrock"
   },
   {
     "Name": "Keep Inventory Orbs",
@@ -270,6 +290,16 @@
     "Categoria": "Optimizacion"
   },
   {
+    "Name": "Skin Restorer",
+    "Desc": "Un mod del lado del servidor para administrar y restaurar las apariencias de los jugadores.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
+    "Url": "https://modrinth.com/project/skinrestorer",
+    "Id": "ghrZDhGW",
+    "Contenido": "Mod",
+    "Categoria": "Funcionalidad"
+  },
+  {
     "Name": "Skull [Portable]",
     "Desc": "¡Consigue y personaliza cabezas de jugador en Survival!",
     "Type": "AMBOS",
@@ -278,6 +308,16 @@
     "Id": "x5rDcrvh",
     "Contenido": "Datapack",
     "Categoria": "Funcionalidad"
+  },
+  {
+    "Name": "Syncmatica",
+    "Desc": "Syncmatica es un mod que pretende integrarse en Litematica para que los esquemas y su ubicación se puedan compartir fácilmente.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
+    "Url": "https://modrinth.com/project/syncmatica",
+    "Id": "bfneejKo",
+    "Contenido": "Mod",
+    "Categoria": "Construcción"
   },
   {
     "Name": "Unfinite Freecam",
