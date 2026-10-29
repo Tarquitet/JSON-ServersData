@@ -140,6 +140,16 @@
     "Categoria": "Optimizacion"
   },
   {
+    "Name": "Floodgate",
+    "Desc": "Hybrid mode mod to allow for connections from Geyser to join online mode servers.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/bWrNNfkb/851eeb9b5daf37baaebe7e8f25e8437735897c9c_96.webp",
+    "Url": "https://modrinth.com/project/floodgate",
+    "Id": "bWrNNfkb",
+    "Contenido": "Mod",
+    "Categoria": "Bedrock"
+  },
+  {
     "Name": "Footprint",
     "Desc": "Server-side mod to keep world size down by not saving all chunks",
     "Type": "AMBOS",
@@ -148,6 +158,16 @@
     "Id": "1dy7kepT",
     "Contenido": "Mod",
     "Categoria": "Optimizacion"
+  },
+  {
+    "Name": "Geyser",
+    "Desc": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/wKkoqHrH/6e8e781d5669ecef9e19a73b5c2eed060d6f73e7_96.webp",
+    "Url": "https://modrinth.com/project/geyser",
+    "Id": "wKkoqHrH",
+    "Contenido": "Plugin",
+    "Categoria": "Bedrock"
   },
   {
     "Name": "Keep Inventory Orbs",
@@ -270,6 +290,16 @@
     "Categoria": "Optimizacion"
   },
   {
+    "Name": "Skin Restorer",
+    "Desc": "A server-side mod for managing and restoring player skins.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
+    "Url": "https://modrinth.com/project/skinrestorer",
+    "Id": "ghrZDhGW",
+    "Contenido": "Mod",
+    "Categoria": "Funcionalidad"
+  },
+  {
     "Name": "Skull [Portable]",
     "Desc": "Obtain and Customize Player Heads in Survival!",
     "Type": "AMBOS",
@@ -278,6 +308,16 @@
     "Id": "x5rDcrvh",
     "Contenido": "Datapack",
     "Categoria": "Funcionalidad"
+  },
+  {
+    "Name": "Syncmatica",
+    "Desc": "Syncmatica is a mod which aims to mod into litematica so that schematics and their placements can be easily shared.",
+    "Type": "AMBOS",
+    "Icon": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
+    "Url": "https://modrinth.com/project/syncmatica",
+    "Id": "bfneejKo",
+    "Contenido": "Mod",
+    "Categoria": "Construcción"
   },
   {
     "Name": "Unfinite Freecam",
