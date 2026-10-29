@@ -1,9 +1,9 @@
 {
   "JavaSmp": "btcsmp.tarquitet.com",
   "JavaCreative": "btccreative.tarquitet.com",
-  "BedrockSmp": "null",
+  "BedrockSmp": "btcbed.tarquitet.com",
   "BedrockCreative": "null",
-  "BedrockPort": "19232",
+  "BedrockPort": "25616",
   "DiscordURL": "https://discord.gg/4KzRH5DPzx",
   "MapaSurvival": "http://btcsmpmap.tarquitet.com",
   "MapaCreativo": "http://btccreativemap.tarquitet.com",
