@@ -40,16 +40,6 @@
     "Categoria": "Mapa Web"
   },
   {
-    "Name": "BlueMap Banners",
-    "Desc": "Adds banners to BlueMap when players place banners in game.",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/rx2aSILw/0d85f96287fbcbe49d5d012f6554dc4c17d3f757.png",
-    "Url": "https://modrinth.com/project/bluemap-banners",
-    "Id": "rx2aSILw",
-    "Contenido": "Mod",
-    "Categoria": "Mapa Web"
-  },
-  {
     "Name": "Bookshelf Inspector",
     "Desc": "Easily tell which books are in your Chiseled Bookshelf by just looking at it! 🕵🏻",
     "Type": "AMBOS",
@@ -140,16 +130,6 @@
     "Categoria": "Optimizacion"
   },
   {
-    "Name": "Floodgate",
-    "Desc": "Hybrid mode mod to allow for connections from Geyser to join online mode servers.",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/bWrNNfkb/851eeb9b5daf37baaebe7e8f25e8437735897c9c_96.webp",
-    "Url": "https://modrinth.com/project/floodgate",
-    "Id": "bWrNNfkb",
-    "Contenido": "Mod",
-    "Categoria": "Bedrock"
-  },
-  {
     "Name": "Footprint",
     "Desc": "Server-side mod to keep world size down by not saving all chunks",
     "Type": "AMBOS",
@@ -160,16 +140,6 @@
     "Categoria": "Optimizacion"
   },
   {
-    "Name": "Geyser",
-    "Desc": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/wKkoqHrH/6e8e781d5669ecef9e19a73b5c2eed060d6f73e7_96.webp",
-    "Url": "https://modrinth.com/project/geyser",
-    "Id": "wKkoqHrH",
-    "Contenido": "Plugin",
-    "Categoria": "Bedrock"
-  },
-  {
     "Name": "Keep Inventory Orbs",
     "Desc": "A cross-platform fully server-side approach to the gravestone concept introducing 'orbs' to store your inventory upon death.",
     "Type": "AMBOS",
@@ -178,16 +148,6 @@
     "Id": "Z0zGkiUf",
     "Contenido": "Datapack",
     "Categoria": "Death Saved"
-  },
-  {
-    "Name": "Krypton",
-    "Desc": "A mod to optimize the Minecraft networking stack",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp",
-    "Url": "https://modrinth.com/project/krypton",
-    "Id": "fQEb0iXm",
-    "Contenido": "Mod",
-    "Categoria": "Optimizacion"
   },
   {
     "Name": "Ledger",
@@ -250,16 +210,6 @@
     "Categoria": "Funcionalidad"
   },
   {
-    "Name": "Percy's Locator Kit",
-    "Desc": "Personalise your Waypoint Icon! (Realms Compatible)",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/ORzF3s2Q/3519a2cd54b28eaf3f8106ff3bccd59ca10836d7.png",
-    "Url": "https://modrinth.com/project/percys-locator-kit",
-    "Id": "ORzF3s2Q",
-    "Contenido": "Datapack",
-    "Categoria": "Funcionalidad"
-  },
-  {
     "Name": "Percy's Sewing Kit",
     "Desc": "An immersive datapack to get custom Items, Armor and Elytra! (Realms Compatible)",
     "Type": "AMBOS",
@@ -268,16 +218,6 @@
     "Id": "w5XQtGRr",
     "Contenido": "Datapack",
     "Categoria": "Funcionalidad"
-  },
-  {
-    "Name": "ScalableLux",
-    "Desc": "A Fabric mod based on Starlight that improves the performance of light updates in Minecraft.",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp",
-    "Url": "https://modrinth.com/project/scalablelux",
-    "Id": "Ps1zyz6x",
-    "Contenido": "Mod",
-    "Categoria": "Optimizacion"
   },
   {
     "Name": "Servux",
@@ -290,42 +230,12 @@
     "Categoria": "Optimizacion"
   },
   {
-    "Name": "Skin Restorer",
-    "Desc": "A server-side mod for managing and restoring player skins.",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
-    "Url": "https://modrinth.com/project/skinrestorer",
-    "Id": "ghrZDhGW",
-    "Contenido": "Mod",
-    "Categoria": "Funcionalidad"
-  },
-  {
     "Name": "Skull [Portable]",
     "Desc": "Obtain and Customize Player Heads in Survival!",
     "Type": "AMBOS",
     "Icon": "https://cdn.modrinth.com/data/x5rDcrvh/68af4607afd63a7caac80e4411935e9bd7bc5321_96.webp",
     "Url": "https://modrinth.com/project/skull-portable",
     "Id": "x5rDcrvh",
-    "Contenido": "Datapack",
-    "Categoria": "Funcionalidad"
-  },
-  {
-    "Name": "Syncmatica",
-    "Desc": "Syncmatica is a mod which aims to mod into litematica so that schematics and their placements can be easily shared.",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
-    "Url": "https://modrinth.com/project/syncmatica",
-    "Id": "bfneejKo",
-    "Contenido": "Mod",
-    "Categoria": "Construcción"
-  },
-  {
-    "Name": "Unfinite Freecam",
-    "Desc": "Spectator Freecam with accurate player figures! ✨     (v2: Now with mannequins)",
-    "Type": "AMBOS",
-    "Icon": "https://cdn.modrinth.com/data/jU81WrzD/0988573e561b5ef235f094dd2489a8a8e9fda325.gif",
-    "Url": "https://modrinth.com/project/unfinite-freecam",
-    "Id": "jU81WrzD",
     "Contenido": "Datapack",
     "Categoria": "Funcionalidad"
   },
