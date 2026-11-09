@@ -2,23 +2,23 @@
   "sections": [
     {
       "id": "1",
-      "title": "Respect and Coexistence",
-      "icon": "✨",
+      "title": "Community",
+      "icon": "🌐",
       "rules": [
         {
           "num": "1.1",
           "items": [
             {
               "code": "1.1.a",
-              "text": "Discrimination, harassment, insults, and revealing personal information about others (xenophobia, orientation, gender, politics, racism, religion) are not tolerated."
+              "text": "Discrimination, harassment, threats, intimidation, and revealing personal information about others are not tolerated."
             },
             {
               "code": "1.1.b",
-              "text": "Avoid foul language, toxicity, and bringing controversies or external news to the server."
+              "text": "Swearing is allowed; we're adults. However, using it to harass or repeatedly destroy another player is prohibited."
             },
             {
               "code": "1.1.c",
-              "text": "Dramas and public fights = penalty. Problems are resolved by ticket."
+              "text": "Serious conflicts should be handled through tickets, avoiding altercations and public displays."
             }
           ]
         },
@@ -27,19 +27,15 @@
           "items": [
             {
               "code": "1.2.a",
-              "text": "<strong>Content +18, NSFW, or sexual = immediate expulsion.</strong> Includes buildings, messages, skins, and profile pictures."
+              "text": "18+ Freedom: Suggestive art, adult humor, and 18+ themes are permitted in private spaces. Everyone is free in their own area."
             },
             {
               "code": "1.2.b",
-              "text": "Any sexual advances towards minors (grooming) = expulsion and report to the appropriate authorities."
+              "text": "+18 Limits: Explicit pornography and any sexual innuendo or harassment towards minors are strictly prohibited."
             },
             {
               "code": "1.2.c",
-              "text": "Do not share or ask for personal information from minors (real age, location, private networks)."
-            },
-            {
-              "code": "1.2.d",
-              "text": "Protection is based on age, not perceived maturity. A mature minor gains trust and responsibilities, never exemption from protection."
+              "text": "Suggestive art or content should be kept in private spaces where it is not easily found publicly."
             }
           ]
         },
@@ -48,23 +44,15 @@
           "items": [
             {
               "code": "1.3.a",
-              "text": "<strong>Prohibited:</strong> political flags, ideologies, controversial symbols (swastikas, hate symbols), gore, violent and offensive content."
+              "text": "Neutrality: The server does not advocate for any ideologies or groups (LGBT, politics, religion). Public areas must remain neutral."
             },
             {
               "code": "1.3.b",
-              "text": "<strong>Permitted historical buildings:</strong> Castles, Taj Mahal, monuments, provided they do not include offensive symbols."
+              "text": "Private property: You are free to display any flag or symbol you wish at your base. If someone else doesn't like it, the solution is to not go to your area."
             },
             {
               "code": "1.3.c",
-              "text": "This applies equally to Minecraft (buildings, skins, capes, signs) and to Discord (photo, banner, name, bio)."
-            },
-            {
-              "code": "1.3.d",
-              "text": "If the staff asks you to change a symbol, skin, or profile, you change it. It's not censorship: it's about community."
-            },
-            {
-              "code": "1.3.e",
-              "text": "Threatening to leave to avoid a rule doesn't excuse you from following it. The door is wide open, but the rules apply while you're inside."
+              "text": "Symbols of hate, extremism, or Nazism are prohibited anywhere on the server."
             }
           ]
         },
@@ -73,19 +61,15 @@
           "items": [
             {
               "code": "1.4.a",
-              "text": "The rules also apply to private messages. Insults via DM are still punishable."
+              "text": "Zero tolerance for cheating: The player must not intentionally lie or manipulate to cause harm to the community."
             },
             {
               "code": "1.4.b",
-              "text": "Do not spam links to third-party servers or flood (send repetitive messages)."
+              "text": "Misunderstandings and conflicts are investigated with context and evidence."
             },
             {
               "code": "1.4.c",
-              "text": "Do not overuse capital letters or repeatedly mention the Staff without a real emergency."
-            },
-            {
-              "code": "1.4.d",
-              "text": "Participating in raids against the community = permanent expulsion and IP ban."
+              "text": "Spam, flooding, abusive mentions and participation in organized attacks (raids) are prohibited."
             }
           ]
         },
@@ -94,11 +78,11 @@
           "items": [
             {
               "code": "1.5.a",
-              "text": "Read the name and description of each channel before writing. Do not enter voice or chat channels to disrupt others."
+              "text": "Discord: Do not enter to disturb or distract in voice channels."
             },
             {
               "code": "1.5.b",
-              "text": "Discord's Terms and Conditions apply to the entire community."
+              "text": "Discord: Respect the theme of each channel and the Terms and Conditions."
             }
           ]
         }
@@ -106,7 +90,7 @@
     },
     {
       "id": "2",
-      "title": "Server and Availability",
+      "title": "Server",
       "icon": "💻",
       "rules": [
         {
@@ -118,28 +102,11 @@
             },
             {
               "code": "2.1.b",
-              "text": "<strong>Daily Restart:</strong> Once a day, the device automatically restarts to clear RAM. A few minutes of inactivity is normal."
+              "text": "Daily restart: It restarts automatically once a day to clear RAM. A few minutes without access is normal."
             },
             {
               "code": "2.1.c",
               "text": "The staff may take the server offline for scheduled maintenance. We will announce this on Discord when possible."
-            }
-          ]
-        },
-        {
-          "num": "2.2",
-          "items": [
-            {
-              "code": "2.2.a",
-              "text": "Report lag by ticket with coordinates. This helps us identify problem areas."
-            },
-            {
-              "code": "2.2.b",
-              "text": "Avoid accumulating entities without a purpose (hundreds of animals, infinite villagers)."
-            },
-            {
-              "code": "2.2.c",
-              "text": "Do not leave permanently active redstone that you are not using."
             }
           ]
         }
@@ -147,7 +114,7 @@
     },
     {
       "id": "3",
-      "title": "Accounts, Access and Appeals",
+      "title": "Player progress",
       "icon": "🔐",
       "rules": [
         {
@@ -163,7 +130,7 @@
             },
             {
               "code": "3.1.c",
-              "text": "Improper skins or skins that violate rules = sanction, whether Mojang or Ely.by."
+              "text": "Avoid using inappropriate skins related to offensive or sexual topics, hate speech, or to make others uncomfortable."
             }
           ]
         },
@@ -180,7 +147,7 @@
             },
             {
               "code": "3.2.c",
-              "text": "<strong>Impersonating a staff member will result in immediate expulsion.</strong> No one on the team will ask for your password."
+              "text": "The staff is volunteer-based, so impersonating them will result in a ban for both parties, whether inside or outside the community."
             }
           ]
         },
@@ -189,15 +156,11 @@
           "items": [
             {
               "code": "3.3.a",
-              "text": "Attempting to evade a temporary ban with multiple accounts = permanent Discord ban and IP ban from the server."
+              "text": "Attempting to evade a temporary ban with multiple accounts results in a permanent ban on both Discord and the server."
             },
             {
               "code": "3.3.b",
-              "text": "Alternative accounts are only allowed after explicit authorization from the Staff (e.g., lost password)."
-            },
-            {
-              "code": "3.3.c",
-              "text": "Anyone who has been banned can submit an appeal via ticket. The final decision rests with the staff."
+              "text": "Alternative accounts are only allowed after explicit authorization from the Staff."
             }
           ]
         }
@@ -205,7 +168,7 @@
     },
     {
       "id": "4",
-      "title": "Constructions and Space",
+      "title": "Constructions",
       "icon": "🏗️",
       "rules": [
         {
@@ -271,15 +234,15 @@
           "items": [
             {
               "code": "5.1.a",
-              "text": "<strong>X-Ray = permanent ban.</strong> Includes mods, resource packs, lava transparency, or using the seed to find minerals."
+              "text": "Server with a slightly technical focus: Support mods such as Litematica, Carpet Mod, Tweakeroo, MiniHUD and similar are 100% allowed."
             },
             {
               "code": "5.1.b",
-              "text": "Any mod that gives an unfair advantage (fly, reach, killaura, ESP, tracers) is prohibited."
+              "text": "Fake Players: The use of bots or fake players (/player) to load farms or mechanics is fully permitted."
             },
             {
               "code": "5.1.c",
-              "text": "Using the seed to find structures (including copper/iron veins) is also considered X-Ray."
+              "text": "What is prohibited: Hacked combat/steal clients (Killaura, Reach, Aimbot) or the use of X-Ray to gain an unfair advantage that ruins the experience."
             }
           ]
         },
@@ -288,11 +251,11 @@
           "items": [
             {
               "code": "5.2.a",
-              "text": "Prohibited: autoclickers, auto-mining, auto-attack, auto-eating, auto-replanting, macros."
+              "text": "Prohibited: Unattended mass autoclickers that impair performance, unless used in a controlled manner on farms."
             },
             {
               "code": "5.2.b",
-              "text": "Authorized fake players (`/player`) are the only controlled exception."
+              "text": "Exploiting critical bugs (such as illegally duplicating items) is punishable. Duplicating TNT, Arena, or other items legally in vanilla gameplay is acceptable."
             },
             {
               "code": "5.2.c",
@@ -305,28 +268,15 @@
           "items": [
             {
               "code": "5.3.a",
-              "text": "PvP is only allowed if both players consent. Return the items to the player who died."
+              "text": "PvP: Allowed only by mutual agreement. If you kill someone without their consent or by accident, return their belongings."
             },
             {
               "code": "5.3.b",
-              "text": "Don't spam kills against the same player. Give them time to disable PvP."
+              "text": "Do not spam kills against the same player. It's considered a raid."
             },
             {
               "code": "5.3.c",
               "text": "Do not attack staff while they are performing their duties."
-            }
-          ]
-        },
-        {
-          "num": "5.4",
-          "items": [
-            {
-              "code": "5.4.a",
-              "text": "Machines based on chance (roulette, slots, betting) are prohibited."
-            },
-            {
-              "code": "5.4.b",
-              "text": "Skill-based machines are allowed (target shooting, racing)."
             }
           ]
         }
@@ -334,7 +284,7 @@
     },
     {
       "id": "6",
-      "title": "Performance and Entities",
+      "title": "Performance",
       "icon": "⚙️",
       "rules": [
         {
@@ -346,11 +296,11 @@
             },
             {
               "code": "6.1.b",
-              "text": "<strong>Chunk loaders only when absolutely necessary.</strong> Not for keeping farms running 24/7."
+              "text": "Chunk loaders only when absolutely necessary. Not to keep farms running 24/7."
             },
             {
               "code": "6.1.c",
-              "text": "Contraptions TNT \"lazy chunk\" (like some mining machines) are not allowed."
+              "text": "Contraptions TNT lazy chunk (like some mining machines) are not allowed."
             }
           ]
         },
@@ -359,11 +309,28 @@
           "items": [
             {
               "code": "6.2.a",
-              "text": "Full list of allowed and prohibited mods on the wiki."
+              "text": "Full list of mods in use on the server or recommended on the wiki."
             },
             {
               "code": "6.2.b",
               "text": "If you're unsure about a mod, ask for a ticket before using it."
+            }
+          ]
+        },
+        {
+          "num": "6.3",
+          "items": [
+            {
+              "code": "6.3.a",
+              "text": "Report lag by ticket with coordinates. This helps us identify problem areas."
+            },
+            {
+              "code": "6.3.b",
+              "text": "Avoid accumulating entities without a purpose (hundreds of animals, infinite villagers)."
+            },
+            {
+              "code": "6.3.c",
+              "text": "Do not leave permanently active redstone that you are not using."
             }
           ]
         }
@@ -371,7 +338,7 @@
     },
     {
       "id": "7",
-      "title": "Jokes and Artistic Content",
+      "title": "About jokes",
       "icon": "🎨",
       "rules": [
         {
@@ -390,46 +357,12 @@
               "text": "The use of fire, TNT, lava, or high-value objects in pranks is prohibited."
             }
           ]
-        },
-        {
-          "num": "7.2",
-          "items": [
-            {
-              "code": "7.2.a",
-              "text": "Maximum 2 suggestive works per player."
-            },
-            {
-              "code": "7.2.b",
-              "text": "Only in private areas (basements, bedrooms). Displaying them in public will result in a fine."
-            },
-            {
-              "code": "7.2.c",
-              "text": "If someone sees your content because you didn't protect it, the responsibility is yours."
-            },
-            {
-              "code": "7.2.d",
-              "text": "The staff has the final say on what is art and what is prohibited. No arguments will be accepted."
-            }
-          ]
-        },
-        {
-          "num": "7.3",
-          "items": [
-            {
-              "code": "7.3.a",
-              "text": "Do not create offensive symbols or disturbing messages."
-            },
-            {
-              "code": "7.3.b",
-              "text": "Inappropriate content publicly visible = mandatory removal and penalty."
-            }
-          ]
         }
       ]
     },
     {
       "id": "8",
-      "title": "Trading and Scams",
+      "title": "Trade",
       "icon": "💰",
       "rules": [
         {
@@ -450,11 +383,11 @@
           "items": [
             {
               "code": "8.2.a",
-              "text": "**Selling items, accounts, or services for real money (PayPal, crypto, etc.) is prohibited. This will result in immediate expulsion."
+              "text": "Selling items, accounts, or services for real money (PayPal, crypto, etc.) is prohibited. This will result in immediate expulsion."
             },
             {
               "code": "8.2.b",
-              "text": "Defrauding other players (promising something and not delivering) = penalty according to severity."
+              "text": "Defrauding other players (promising something and not delivering) is punishable according to severity."
             },
             {
               "code": "8.2.c",
@@ -479,7 +412,7 @@
     },
     {
       "id": "9",
-      "title": "Staff and Sanctions",
+      "title": "Staff",
       "icon": "🛡️",
       "rules": [
         {
@@ -491,11 +424,11 @@
             },
             {
               "code": "9.1.b",
-              "text": "Repeated mentions of Staff without a real emergency = temporary mute."
+              "text": "Repeated mentions of Staff without a real emergency will result in temporary mute."
             },
             {
               "code": "9.1.c",
-              "text": "Insulting or belittling a team member = withdrawal of access."
+              "text": "Insulting or belittling a team member will result in temporary muting."
             }
           ]
         },
@@ -517,15 +450,15 @@
           "items": [
             {
               "code": "9.3.a",
-              "text": "<strong>Minor:</strong> Warning or temporary mute. Minor offenses or first offenses."
+              "text": "Minor: Warning or temporary mute. Minor offenses or first offenses."
             },
             {
               "code": "9.3.b",
-              "text": "<strong>Serious:</strong> Temporary ban. Recurring or medium-impact offenses."
+              "text": "Serious: Temporary ban. Recurring or medium-impact offenses."
             },
             {
               "code": "9.3.c",
-              "text": "<strong>Expulsion:</strong> Permanent ban. Serious offenses (X-Ray, fraud, evasion, impersonation)."
+              "text": "Expulsion: Permanent ban. Serious offenses (X-Ray, fraud, evasion, impersonation)."
             },
             {
               "code": "9.3.d",
@@ -552,6 +485,19 @@
             {
               "code": "9.5.b",
               "text": "Turning a blind eye is also a choice: the staff is responsible for what they tolerate in spaces where there are minors."
+            }
+          ]
+        },
+        {
+          "num": "9.6",
+          "items": [
+            {
+              "code": "9.6.a",
+              "text": "If you're unsure whether something is allowed, ask before doing it."
+            },
+            {
+              "code": "9.6.b",
+              "text": "The staff has the final say in situations not covered by these rules."
             }
           ]
         }
@@ -585,26 +531,6 @@
             {
               "code": "10.2.b",
               "text": "The updated official list is on the website."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Common sense",
-      "icon": "🧠",
-      "rules": [
-        {
-          "num": "11.1",
-          "items": [
-            {
-              "code": "11.1.a",
-              "text": "If you're unsure whether something is allowed, ask before doing it."
-            },
-            {
-              "code": "11.1.b",
-              "text": "The staff has the final say in situations not covered by these rules."
             }
           ]
         }
